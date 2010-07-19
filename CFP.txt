@@ -81,28 +81,26 @@ Topics
 PFLDNeT 2010 covers all aspects related to transport protocols for the
 current and future Internet, including, but not limited to:
 
-- Protocol development
-- Enhancements of TCP and other transports
+- Transport protocol development
+- Enhancements to TCP and other transports
 - Innovative congestion control mechanisms
-- Novel data transport protocols designed for new networks and
-- applications
-- Explicit signaling protocols: optimization criteria and deployment
-- strategies
+- Novel data transport protocols designed for new networks and applications
+- Transport services for data center networks and grids
+- Transport services for wireless and sensor networks
+- Explicit signaling protocols: optimization criteria and deployment strategies
 - Pacing and shaping of traffic
 - Parallel transfers and multi-streaming
 - Performance evaluation
 - Modeling and simulation-based results
 - Interaction of transport protocols and network equipment
 - Experiments on real networks and live measurements
-- Protocol benchmarking
+- Transport protocol benchmarking
 - Transport over optical networks
-- Protocol implementation and hardware issues
+- Transport implementation and hardware issues
 - End system performance
 - Data replication and striping
-- Applications with demanding or unusual network performance
-- requirements
+- Applications with demanding or unusual network performance requirements
 - Bulk-data transfer applications
-- Transport service for Grids
 - Quality-of-service and scalability issues
 - Multicast
 
@@ -135,6 +133,8 @@ Preethi Natarajan, Cisco, USA
 Narasimha Reddy, Texas A&M University, USA
 Medy Sanadidi, UCLA, USA
 Pasi Sarolahti, Nokia Research Center, Finland
+Michael Scharf, Alcatel-Lucent, Germany
+Hideyuki Shimonishi, NEC, Japan
 Murari Sridharan, Microsoft, USA
 Joe Touch, USC/ISI, USA
 Michael Welzl, University of Innsbruck, Austria
