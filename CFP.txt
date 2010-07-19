@@ -6,7 +6,7 @@ The 8th International Workshop on Protocols for Future,
 Large-Scale and Diverse Network Transports (PFLDNeT)
 
 Franklin & Marshall College, Lancaster, Pennsylvania, USA
-XXX, 2010
+December 4-5, 2010
 Web page: http://pfld.net/2010
 
 
@@ -62,10 +62,10 @@ ideas and experience.
 
 Important Dates and Relevant Event Information
 
-Position Paper submission: XXX
-Notification of Acceptance: XXX
-Final camera ready submission: XXX
-Conference: XXX
+Position paper submission: September 19, 2010
+Notification of acceptance: October 22, 2010
+Final camera ready submission: November 14, 2010
+Conference: December 4-5, 2010
 
 Note: PFLDNeT 2010 will be immediately after CoNEXT 2010, and its venue
 is located only a short drive or train ride from Philadelphia, making it
