@@ -59,11 +59,15 @@ working on these problems.  PFLDNeT 2010 will continue this tradition,
 and provide a perfect forum for researchers in this area to exchange
 ideas and experience.
 
+As in previous years, a meeting of the IRTF Internet Congestion
+Control Research Group (ICCRG) will be co-located with PFLDNeT, on
+(date).
+
 
 Important Dates and Relevant Event Information
 
-Position paper submission: September 19, 2010
-Notification of acceptance: October 22, 2010
+Position paper submission: September 27, 2010
+Notification of acceptance: October 27, 2010
 Final camera ready submission: November 14, 2010
 Conference: December 4-5, 2010
 
@@ -122,6 +126,7 @@ Michael Welzl, University of Innsbruck, Austria
 Technical Program Committee (preliminary):
 Scott Brim, Cisco, USA
 Dirceu Cavendish, Kyushu Institute of Technology, Japan
+Stuart Cheshire, Apple, USA
 Larry Dunn, University of Minnesota, USA
 Lars Eggert, Nokia Research Center, Finland
 Ted Faber, USC/ISI, USA
@@ -129,6 +134,7 @@ Saikat Guha, Microsoft Research, India
 Sangtae Ha, Princeton University, USA
 Janardhan Iyengar, Franklin & Marshall College, USA
 Katsushi Kobayashi, AIST, Japan
+Aleksandar Kuzmanovic, Northwestern University, USA
 Preethi Natarajan, Cisco, USA
 Narasimha Reddy, Texas A&M University, USA
 Medy Sanadidi, UCLA, USA
@@ -139,4 +145,7 @@ Murari Sridharan, Microsoft, USA
 Joe Touch, USC/ISI, USA
 Michael Welzl, University of Innsbruck, Austria
 Lisong Xu, University of Nebraska, USA
+
+Local Arrangements:
+Janardhan Iyengar, Franklin & Marshall College, USA
 
