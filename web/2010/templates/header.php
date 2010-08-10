@@ -12,7 +12,7 @@
     $this_page=$_SERVER['SCRIPT_NAME'];
     if ($this_page=="/pfldnet2007/index.php") {
 	echo <<<EOT
-<td rowspan="5" height="75"><img src="images/marina_del_rey_fade.jpg" width="372" height="162"></td>
+<td rowspan="5" height="75"><img src="images/fandm1.jpg" width="372" height="162"></td>
 <td align="center"><img src="images/PFLDNet2010logo.png"></td></tr>
 <td align="center">8th International Workshop on</td></tr>
 		<td align="center">Protocols for  Future, Large-Scale &amp; Diverse Network Transports (PFLDNeT)</td></tr>
