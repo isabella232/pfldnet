@@ -8,7 +8,7 @@
 <LINK href="def.css" rel="stylesheet" media="all">
 </HEAD>
 
-<?php include ("../templates/header.php"); ?>
+<?php include ("templates/header.php"); ?>
 
 <TABLE width="780" border="0" cellspacing="0" cellpadding="0">
 <TR>
@@ -21,10 +21,10 @@ Large-Scale and Diverse Network Transports (PFLDNeT)<br>
 
 Franklin & Marshall College, Lancaster, Pennsylvania, USA
 November 28-29, 2010<br>
-Web page: http://pfld.net/2010<br><b>
+Web page: http://pfld.net/2010<br></b>
 
 
-<h5>Scope:</h5>
+<h4>Scope:</h4>
 
 <p>The Internet continues to evolve along several dimensions, allowing
 more and more end systems to communicate in increasingly diverse ways.
@@ -125,4 +125,4 @@ current and future Internet, including, but not limited to:<br>
 - Quality-of-service and scalability issues<br>
 - Multicast<br>
 
-<?php include ("../templates/footer.php"); ?>
+<?php include ("templates/footer.php"); ?>
