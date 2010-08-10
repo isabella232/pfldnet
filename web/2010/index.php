@@ -17,7 +17,9 @@
 <TD class="medium" width="524">
 				
 <p>The 8th International Workshop on Protocols for Future, Large-Scale &amp; 
-Diverse Network Transports (PFLDNeT) brings together researchers and 
+Diverse Network Transports (PFLDNeT) 
+in beautiful <a href="http://www.downtownlancaster.com">Lancaster, Pennsylvania,</a>
+will bring together researchers and 
 practitioners from all over the world
 working in the area of transport layer issues for 
 modern communication networks.

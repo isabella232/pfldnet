@@ -21,9 +21,12 @@
 EOT;
     } else {
 	echo <<<EOT
-<td rowspan="2" height="75"><img src="images/marina_del_rey_short.jpg" width="372" ></td>
-<td align="center"><img src="images/PFLDNet2010logo.png"></td></tr>
-<td align="center">28-29 November 2010; Lancaster, Pennsylvania</td></tr>
+<td align="left" rowspan="3" height="75"><img src="images/fandm1.jpg" width="410" >&nbsp;&nbsp;
+</td>
+<td align="center"> November 28-29, 2010 <br> Franklin &amp; Marshall College &nbsp;&nbsp;<br>
+Lancaster, Pennsylvania</td>
+<td align="right"><img src="images/PFLDNet2010logo.png"></td></tr>
+</tr>
 EOT;
 	}
 ?>
