@@ -46,22 +46,5 @@ p { margin-left:40px }
 </TR>
 </TABLE>
 
-<!-- <h2>Review Manuscript Submission</h2>
-	<p>Please submit your initial manuscript electronically to EDAS, following the PFLDnet2007 <em><a href="submission.php">SUBMISSION</a></em> guidelines.</p>
-  <h2>Final Paper Submission</h2>
-  <p>Once the programme is finalised, you will be allocated page numbers. <strong>Please include the page numbers in your final paper.</strong>
-  Email the final paper in the above IEEE format to <?php email_link("lachlan AT caltech edu") ?>.
-	<h2>Copyright Release Form</h2>
-<p>In order for us to include your paper in the proceedings, we need you to sign a copyright release form.  This is not a copyright transfer form,
-and we do not restrict you from submitting extended versions of your work to conferences or journals.</p>
-<p>Download the Copyright Release Form either as a <a href="copyright.doc">.doc file</a> or as a <a href="copyright.pdf">.pdf file</a>.<br>
-Then <span style="color:#cc0000">COMPLETE, SIGN AND RETURN  </span> the copyright forms <br>
-via FAX<b> + 1(626)-568-3603</b>, marked<b> &quot;Attn: Lachlan Andrew, Netlab, Re: PFLDnet2007 Submission&quot;</b></p>
-<p style="margin-left:80px;border:solid 1px #eb6100;padding:10px;width:400px">Note: You are stating that the material in your paper is original
-and you have not previously transferred copyright to it. We cannot publish your paper without your completed and signed Copyright Release form.</p>
-
-<p>Please put the conference name - PFLDnet2007 - on all correspondence, on the copyright form, and on the mailing envelope.</p>
--->
-
 <?php include ("templates/footer.php"); ?>
 
