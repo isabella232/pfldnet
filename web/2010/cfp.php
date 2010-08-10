@@ -15,11 +15,11 @@
 <TD bgcolor="#000000" width="1"><IMG src="images/spacer.gif" alt="" height="5" width="1" border="0"></TD>
 <TD width="778"><H1><IMG src="images/cap_cfp.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Call for Papers </H1>
 <div class="top">
-<h4>PFLDNeT 2010</h4><br>
+<h4>PFLDNeT 2010</h4>
 <b>The 8th International Workshop on Protocols for Future,
 Large-Scale and Diverse Network Transports (PFLDNeT)<br>
 
-Franklin & Marshall College, Lancaster, Pennsylvania, USA
+Franklin & Marshall College, Lancaster, Pennsylvania, USA<br>
 November 28-29, 2010<br>
 Web page: http://pfld.net/2010<br></b>
 
@@ -77,20 +77,21 @@ ideas and experience.</p>
 Control Research Group (ICCRG) will be co-located with PFLDNeT, on
 November 29, 2010.</p>
 
-<h4>Important Dates and Relevant Event Information</h4>
+<h4>Important Dates and Relevant Event Information:</h4>
 
 Abstract submission: September 20, 2010 <br>
 Position paper submission: September 27, 2010<br>
 Notification of acceptance: October 27, 2010<br>
 Final camera ready submission: November 14, 2010<br>
-Workshop: December 4-5, 2010
+Workshop: November 28-29, 2010<br>
+IRTF ICCRG meeting (co-located): November 29, 2010
 
 <p><b>Note:</b> 
 PFLDNeT 2010 will be immediately before CoNEXT 2010, and its venue
 is located only a short drive or train ride from Philadelphia, making it
 easy to attend both events in one trip.</p>
 
-<h4>Topics</h4>
+<h4>Topics:</h4>
 
 PFLDNeT 2010 covers all aspects related to transport protocols for the
 current and future Internet, including, but not limited to:<br>
