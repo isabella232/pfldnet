@@ -76,7 +76,6 @@ ideas and experience.</p>
 <p>As in previous years, a meeting of the IRTF Internet Congestion
 Control Research Group (ICCRG) will be co-located with PFLDNeT, on
 November 29, 2010.</p>
-<br><br>
 
 <h4>Important Dates and Relevant Event Information</h4>
 
@@ -86,16 +85,10 @@ Notification of acceptance: October 27, 2010<br>
 Final camera ready submission: November 14, 2010<br>
 Workshop: December 4-5, 2010
 
-<br><br>
-Note: PFLDNeT 2010 will be immediately before CoNEXT 2010, and its venue
+<p><b>Note:</b> 
+PFLDNeT 2010 will be immediately before CoNEXT 2010, and its venue
 is located only a short drive or train ride from Philadelphia, making it
-easy to attend both events in one trip.
-<br><br>
-
-Workshop web site:
-The latest information of the workshop is updated in
-http://pfld.net/2010
-<br>
+easy to attend both events in one trip.</p>
 
 <h4>Topics</h4>
 
