@@ -46,10 +46,7 @@ p { margin-left:40px }
 </TR>
 </TABLE>
 
-<?php include ("templates/footer.php"); ?>
-
-<!--	
-  <h2>Review Manuscript Submission</h2>
+<!-- <h2>Review Manuscript Submission</h2>
 	<p>Please submit your initial manuscript electronically to EDAS, following the PFLDnet2007 <em><a href="submission.php">SUBMISSION</a></em> guidelines.</p>
   <h2>Final Paper Submission</h2>
   <p>Once the programme is finalised, you will be allocated page numbers. <strong>Please include the page numbers in your final paper.</strong>
@@ -65,3 +62,6 @@ and you have not previously transferred copyright to it. We cannot publish your 
 
 <p>Please put the conference name - PFLDnet2007 - on all correspondence, on the copyright form, and on the mailing envelope.</p>
 -->
+
+<?php include ("templates/footer.php"); ?>
+
