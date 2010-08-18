@@ -138,7 +138,7 @@ Aleksandar Kuzmanovic, Northwestern University, USA
 Preethi Natarajan, Cisco, USA
 Narasimha Reddy, Texas A&M University, USA
 Medy Sanadidi, UCLA, USA
-Pasi Sarolahti, Nokia Research Center, Finland
+Pasi Sarolahti, Aalto University, Finland
 Michael Scharf, Alcatel-Lucent, Germany
 Hideyuki Shimonishi, NEC, Japan
 Murari Sridharan, Microsoft, USA
