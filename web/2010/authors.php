@@ -26,7 +26,7 @@ p { margin-left:40px }
     KIT</H1>
   <div class="top">
   <h2>Paper Preparation</h2>
-  <P>The camera-ready paper must be in PDF format for A4 or "US letter" sized paper, with a maximum length of 6 pages.<br> 
+  <P>The camera-ready paper must be in PDF format for "US letter" sized paper, with a maximum length of 6 pages.<br> 
   	ALL fonts must be embedded in the PDF file.</p>
 	<dl>
 		<dt>IMPORTANT: </dt>
