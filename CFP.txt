@@ -1,16 +1,16 @@
 CALL FOR PAPERS
 
-PFLDNet 2010
+PFLDNeT 2010
 
 The 8th International Workshop on Protocols for Future,
 Large-Scale and Diverse Network Transports (PFLDNeT)
 
 Franklin & Marshall College, Lancaster, Pennsylvania, USA
-December 4-5, 2010
+November 28-29, 2010
 Web page: http://pfld.net/2010
 
 
-Scope
+Scope:
 
 The Internet continues to evolve along several dimensions, allowing
 more and more end systems to communicate in increasingly diverse ways.
@@ -61,26 +61,24 @@ ideas and experience.
 
 As in previous years, a meeting of the IRTF Internet Congestion
 Control Research Group (ICCRG) will be co-located with PFLDNeT, on
-(date).
+November 29, 2010.
 
 
-Important Dates and Relevant Event Information
+Important Dates and Relevant Event Information:
 
+Abstract submission: September 20, 2010
 Position paper submission: September 27, 2010
-Notification of acceptance: October 27, 2010
+Notification of acceptance: October 25, 2010
 Final camera ready submission: November 14, 2010
-Conference: December 4-5, 2010
+Workshop: November 28-29, 2010
+IRTF ICCRG meeting (co-located): November 29, 2010
 
-Note: PFLDNeT 2010 will be immediately after CoNEXT 2010, and its venue
+Note: PFLDNeT 2010 will be immediately before CoNEXT 2010, and its venue
 is located only a short drive or train ride from Philadelphia, making it
 easy to attend both events in one trip.
 
 
-Workshop web site:
-The latest information of the workshop is updated in
-http://pfld.net/2010
-
-Topics
+Topics:
 
 PFLDNeT 2010 covers all aspects related to transport protocols for the
 current and future Internet, including, but not limited to:
@@ -108,7 +106,8 @@ current and future Internet, including, but not limited to:
 - Quality-of-service and scalability issues
 - Multicast
 
-Workshop Organizers
+
+Workshop Organizers:
 
 Program Committee Chairs:
 Bryan Ford, Yale University, USA
@@ -116,12 +115,13 @@ Injong Rhee, North Carolina State University, USA
 
 Steering Committee:
 Lachlan Andrew, Swinburne University of Technology, Australia
+Lars Eggert, Nokia Research Center, Finland
 Richard Hughes-Jones, Univ. of Manchester, UK
 Katsushi Kobayashi, AIST, Japan
 Doug Leith, Hamilton Institute, Ireland
 Injong Rhee, North Carolina State University, USA
 Pascale Vicat-Blanc, INRIA, France
-Michael Welzl, University of Innsbruck, Austria
+Michael Welzl, University of Oslo, Norway
 
 Technical Program Committee (preliminary):
 Scott Brim, Cisco, USA
@@ -140,12 +140,12 @@ Preethi Natarajan, Cisco, USA
 Joerg Ott, TKK, Finland
 Narasimha Reddy, Texas A&M University, USA
 Medy Sanadidi, UCLA, USA
-Pasi Sarolahti, Nokia Research Center, Finland
+Pasi Sarolahti, Aalto University, Finland
 Michael Scharf, Alcatel-Lucent, Germany
 Hideyuki Shimonishi, NEC, Japan
 Murari Sridharan, Microsoft, USA
 Joe Touch, USC/ISI, USA
-Michael Welzl, University of Innsbruck, Austria
+Michael Welzl, University of Oslo, Norway
 Lisong Xu, University of Nebraska, USA
 
 Local Arrangements:
