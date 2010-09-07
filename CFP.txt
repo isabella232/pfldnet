@@ -125,6 +125,7 @@ Michael Welzl, University of Oslo, Norway
 
 Technical Program Committee (preliminary):
 Scott Brim, Cisco, USA
+Bob Briscoe, BT, UK
 Dirceu Cavendish, Kyushu Institute of Technology, Japan
 Stuart Cheshire, Apple, USA
 Larry Dunn, University of Minnesota, USA
@@ -136,6 +137,7 @@ Janardhan Iyengar, Franklin & Marshall College, USA
 Katsushi Kobayashi, AIST, Japan
 Aleksandar Kuzmanovic, Northwestern University, USA
 Preethi Natarajan, Cisco, USA
+Joerg Ott, TKK, Finland
 Narasimha Reddy, Texas A&M University, USA
 Medy Sanadidi, UCLA, USA
 Pasi Sarolahti, Aalto University, Finland
