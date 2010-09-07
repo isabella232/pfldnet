@@ -118,5 +118,5 @@ current and future Internet, including, but not limited to:<br>
 - Bulk-data transfer applications<br>
 - Quality-of-service and scalability issues<br>
 - Multicast<br>
-
+</div></td></tr></table>
 <?php include ("templates/footer.php"); ?>
