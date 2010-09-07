@@ -15,6 +15,35 @@
 <TR>
 <TD bgcolor="#000000" width="1"><IMG src="images/spacer.gif" alt="" height="5" width="1" border="0"></TD>
 <TD width="778"><H1><IMG src="images/cap_sub.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">SUBMISSION INSTRUCTIONS</H1>
+
+<H2> Paper Format:</H2> 
+
+The papers must be in PDF format, US letter sized, 
+with a maximum length of 6 pages (including all figures and references). 
+Font size should be 10pt or larger and all fonts must be embedded in the 
+PDF file. The papers should follow the format of the 
+<a href="http://www.ieee.org/publications_standards/publications/authors/authors_journals.html">IEEE Transaction style</a>. 
+LaTeX template can be found 
+<a href="http://www.ieee.org/documents/IEEEtran.zip">here</a>. 
+Microsoft Word template can be found 
+<a href="http://www.ieee.org/documents/TRANS-JOUR.doc">here</a>.
+
+Submissions that do not adhere to these requirements will be rejected 
+without further review. Peer review is "single-blind": 
+the authors' names and affiliations are to be included on the submission.
+
+<H2>Paper Submission:</H2>
+
+Papers must be submitted via EDAS following these instructions:<br>
+1. Create an account on EDAS (if you don't have one) and log in to <a href='http://edas.info'>edas.info</a><br>
+2. Click on the "Submit paper" tab and find "PFLDNeT 2010" in the list<br>
+3. Click the "Submit paper" icon on the rightmost column of that row<br>
+4. Register the paper (requires paper title and abstract)<br>
+5. Once the paper is registered, you can add authors and
+upload manuscript in PDF format.
+
+The authors of accepted papers must guarantee that their paper will be presented at the conference. At least one author of each accepted paper must be registered for the conference in order for that paper to appear in the proceedings and to be scheduled for presentation. 
+
   <!-- <h2>Papers are to be electronically submitted to EDAS at <A href="http://www.edas.info/" target=_blank><strong>http://www.edas.info/</strong></A> </h2> -->
   <p><B><font color="red">PFLDnet 2010 Paper Format:</font></B></P>
 <p>The papers are to submitted using <B>font size 10pt.</B><br>
