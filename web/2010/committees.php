@@ -43,6 +43,7 @@ Michael Welzl, University of Oslo, Norway
 <dd>
 Mark Allman, ICIR, USA<br>
 Scott Brim, Cisco, USA<br/>
+Bob Briscoe, BT, UK<br>
 Dirceu Cavendish, Kyushu Institute of Technology, Japan<br/>
 Stuart Cheshire, Apple, USA<br/>
 Larry Dunn, University of Minnesota, USA<br/>
@@ -54,6 +55,7 @@ Janardhan Iyengar, Franklin & Marshall College, USA<br/>
 Katsushi Kobayashi, AIST, Japan<br/>
 Aleksandar Kuzmanovic, Northwestern University, USA<br/>
 Preethi Natarajan, Cisco, USA<br/>
+Joerg Ott, TKK, Finland<br>
 Narasimha Reddy, Texas A&M University, USA<br/>
 Medy Sanadidi, UCLA, USA<br/>
 Pasi Sarolahti, Aalto University, Finland<br/>

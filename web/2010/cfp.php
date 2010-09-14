@@ -21,7 +21,9 @@ Large-Scale and Diverse Network Transports (PFLDNeT)<br>
 
 Franklin & Marshall College, Lancaster, Pennsylvania, USA<br>
 November 28-29, 2010<br>
-Web page: http://pfld.net/2010<br></b>
+Web page: <a href="http://pfld.net/2010">http://pfld.net/2010</a><br>
+CFP text version: <a href="cfp.txt">http://www.pfld.net/2010/cfp.txt</a>
+</b>
 
 
 <h4>Scope:</h4>
