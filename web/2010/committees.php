@@ -41,6 +41,7 @@ Michael Welzl, University of Oslo, Norway
 
 <dt>Technical Program Committee (preliminary):</dt>
 <dd>
+Mark Allman, ICIR, USA<br>
 Scott Brim, Cisco, USA<br/>
 Dirceu Cavendish, Kyushu Institute of Technology, Japan<br/>
 Stuart Cheshire, Apple, USA<br/>

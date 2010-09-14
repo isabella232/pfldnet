@@ -124,6 +124,7 @@ Pascale Vicat-Blanc, INRIA, France
 Michael Welzl, University of Oslo, Norway
 
 Technical Program Committee (preliminary):
+Mark Allman, ICIR, USA
 Scott Brim, Cisco, USA
 Bob Briscoe, BT, UK
 Dirceu Cavendish, Kyushu Institute of Technology, Japan
