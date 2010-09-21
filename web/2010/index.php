@@ -76,7 +76,7 @@ experiences in the area of transport layer problems.</p>
   </tr>
   <tr>
     <td valign="top"><strong>Paper submission:</strong></td>
-	 <td><strong><span  style="text-decoration: none">September 27, 2010</span>  October 8, 2010</strong><br/></td>
+	 <td><strong><span  style="text-decoration: line-through">September 27, 2010</span>  October 8, 2010</strong><br/></td>
   </tr>
   <tr>
     <td>Notification of acceptance:</td>
