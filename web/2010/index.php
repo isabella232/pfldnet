@@ -72,11 +72,11 @@ experiences in the area of transport layer problems.</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-left:20px" class="detail">
   <tr>
     <td valign="top"><strong>Abstract submission:</strong></td>
-	 <td><strong><span  style="text-decoration: line-through">September 20, 2010</span>  October 4, 2010 (extended)</strong><br/></td>
+	 <td><strong><span  style="text-decoration: line-through">September 20, 2010</span>  October 4, 2010</strong><br/></td>
   </tr>
   <tr>
     <td valign="top"><strong>Paper submission:</strong></td>
-	 <td><strong><span  style="text-decoration: line-through">September 27, 2010</span>  October 8, 2010 (extended)</strong><br/></td>
+	 <td><strong><span  style="text-decoration: line-through">September 27, 2010</span>  October 8, 2010</strong><br/></td>
   </tr>
   <tr>
     <td>Notification of acceptance:</td>
