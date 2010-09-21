@@ -80,7 +80,7 @@ experiences in the area of transport layer problems.</p>
   </tr>
   <tr>
     <td>Notification of acceptance:</td>
-    <td><span  style="text-decoration: ">October 25, 2010</span></td>
+    <td><span  style="text-decoration: ">October 27, 2010</span></td>
   </tr>
   <tr>
     <td>Camera-ready submission:</td>
