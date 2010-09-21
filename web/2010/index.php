@@ -72,7 +72,7 @@ experiences in the area of transport layer problems.</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-left:20px" class="detail">
   <tr>
     <td valign="top"><strong>Abstract submission:</strong></td>
-    <td><span  style="text-decoration: none"><strong>September 20, 2010</strong><br/></span></td>
+	 <td><span  style="text-decoration: line-through"><strong>September 20, 2010  October 4, 2010</strong></span><br/></td>
   </tr>
   <tr>
     <td valign="top"><strong>Paper submission:</strong></td>
@@ -80,7 +80,7 @@ experiences in the area of transport layer problems.</p>
   </tr>
   <tr>
     <td>Notification of acceptance:</td>
-    <td><span  style="text-decoration: none">October 25, 2010</span></td>
+    <td><span  style="text-decoration: ">October 25, 2010</span></td>
   </tr>
   <tr>
     <td>Camera-ready submission:</td>
