@@ -46,6 +46,7 @@ Scott Brim, Cisco, USA<br/>
 Bob Briscoe, BT, UK<br>
 Dirceu Cavendish, Kyushu Institute of Technology, Japan<br/>
 Stuart Cheshire, Apple, USA<br/>
+Nandita Dukkipati, Google, USA<br/>
 Larry Dunn, University of Minnesota, USA<br/>
 Lars Eggert, Nokia Research Center, Finland<br/>
 Ted Faber, USC/ISI, USA<br/>
