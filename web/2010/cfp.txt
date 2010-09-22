@@ -123,7 +123,7 @@ Injong Rhee, North Carolina State University, USA
 Pascale Vicat-Blanc, INRIA, France
 Michael Welzl, University of Oslo, Norway
 
-Technical Program Committee (preliminary):
+Technical Program Committee:
 Mark Allman, ICIR, USA
 Scott Brim, Cisco, USA
 Bob Briscoe, BT, UK

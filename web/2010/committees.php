@@ -39,7 +39,7 @@ Pascale Vicat-Blanc, INRIA, France<br/>
 Michael Welzl, University of Oslo, Norway
 </dd>
 
-<dt>Technical Program Committee (preliminary):</dt>
+<dt>Technical Program Committee:</dt>
 <dd>
 Mark Allman, ICIR, USA<br>
 Scott Brim, Cisco, USA<br/>
