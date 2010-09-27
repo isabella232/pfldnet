@@ -1,0 +1,21 @@
+BODY {font-family: Helvetica, Arial, sans-serif}
+TD {  font-family: Helvetica, Arial, sans-serif; font-size: 14px}
+
+a:link {color: #666699}
+a.menu {color: #000000}
+a:visited {  color: #333333}
+a.noline {  TEXT-DECORATION: none}
+a.linkblue { color: #666699; TEXT-DECORATION: none} 
+.subtitle {font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold}
+.hierarchy {BORDER-RIGHT: #003366 1px solid; BORDER-TOP: #003366 1px solid; BORDER-LEFT: #003366 1px solid; COLOR: #000000; BORDER-BOTTOM: #003366 1px solid;  TEXT-DECORATION: none
+}
+
+.hierarchyb {BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM:#000000 1px solid }
+
+
+
+h1 {  font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #666666; font-weight: bold; text-align: center}
+h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color: #99CC99}
+h3 {  font-size: 14px; font-weight: bold; color: #99CC99}
+.green {  color: #99CC99; font-weight: bold}
+.hierarchygreen { BORDER-RIGHT: #99CC99 1px solid; BORDER-TOP: #99CC99 1px solid; BORDER-LEFT: #99CC99 1px solid; BORDER-BOTTOM: #99CC99 1px solid; TEXT-DECORATION: none }

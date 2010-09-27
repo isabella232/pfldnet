@@ -1,0 +1,154 @@
+<html><!-- #BeginTemplate "/Templates/page.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>PFLDnet 2003 - Registration</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../Templates/style.css" type="text/css">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<div align="center">
+  <table width="740" border="0">
+    <tr> 
+      <td width="27%" height="55"><a href="../index.html"><img src="../images/logo.jpg" border="0" width="200" height="94"></a></td>
+      <td height="55" align="center" valign="middle" width="73%"> 
+        <p align="center">
+         <h1>First International Workshop<br>
+         on Protocols for Fast <br>
+         Long-Distance Networks</h1></p>
+      </td>
+    </tr>
+    <tr bgcolor="#99CC99"> 
+      <td colspan="2" height="9"> 
+        <div align="center"></div>
+        <div align="center"> 
+          <table width="98%" border="0">
+            <tr> 
+              <td width="27%">&nbsp;</td>
+              <td width="73%"> 
+                <div align="center"><font color="#FFFFFF"><b class="subtitle">February 
+                  3-4, 2003 <br>
+                  CERN, Geneva, Switzerland</b></font></div>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <table width="740" border="0">
+    <tr> 
+      <td width="140" align="left" valign="top" height="209"> 
+        <p><img src="../images/links.jpg" width="20" height="12"> <b><a href="../index.html" class="menu">Home</a></b></p>
+        <p><img src="../images/links.jpg" width="20" height="12"> <b><a href="../program.html" class="menu">Technical</a><br>
+          <img src="../images/shim.gif" width="20" height="1"> <a href="../program.html" class="menu">Program</a></b></p>
+        <p><img src="../images/links.jpg" width="20" height="12"> <b><a href="../committees.html" class="menu">Committees</a></b></p>
+        <p><img src="../images/links.jpg" width="20" height="12"> <b><a href="../submission.html" class="menu">Submission</a><br>
+          <img src="../images/shim.gif" width="20" height="1"> <a href="../submission.html" class="menu">Instructions</a></b></p>
+        <p><img src="../images/links.jpg" width="20" height="12"> <b><a href="../registration.html" class="menu">Registration</a></b></p>
+        <p><img src="../images/links.jpg" width="20" height="12"> <b><a href="../dates.html" class="menu">Important</a><br>
+          <img src="../images/shim.gif" width="20" height="1"> <a href="../dates.html" class="menu">Dates</a></b></p>
+      </td>
+      <td width="585"  align="left" valign="top"> 
+        <p>&nbsp;</p>
+        <p>Talk</p>
+        <p><a href="http://www.nikhef.nl/~antony/"> Antony Antony</a>, NIKHEF, The Netherlands,
+           <a href="http://carol.wins.uva.nl/~jblom/"> Johan Blom</a>,
+           <a href="http://carol.wins.uva.nl/~delaat/"> Cees de Laat</a>,
+           <a href="http://george.lbl.gov/~jason/my-homepage.html">Jason Lee</a>, and
+           <a href="http://carol.wins.uva.nl/~wsjouw/"> Wim Sjouw</a>, University of Amsterdam, The
+           Netherlands</p>
+        <p>Title: Characterization of TCP Flows over Large-Fat Networks</p>
+        <p>Abstract:</p>
+        
+        <p>Most recent research and development in the area of high speed TCP
+        has focused on the steady state behavior of TCP flows. However our
+        experience with one of the first research only trans-Atlantic Lambda
+        links (2.5 Gbit/s) and one of the first trans-Atlantic 10 Gbit/s Ethernet
+        paths has clearly revealed the need to focus on the initial stages of
+        TCP. The work we present here examines the behavior of large TCP flows
+        over high bandwidth delay networks at the microscopic level. This
+        inspection has led us to question whether the underlying network can
+        truly support bursty protocols such as TCP at these very high speeds
+        combined with such high latency. We will briefly describe the
+        requirements needed to support high-speed single stream TCP in such an
+        extreme network environment, without resorting to using multi-streams We
+        will present experimental results from using these Trans-Atlantic links
+        at iGrid2002 where we tuned various host parameters and used modified
+        TCP stacks to try to improve performance over these links, and show how
+        they differ with what the theoretical throughput is on these links.</p>
+        
+        <p>Grid applications in general can be demanding in terms of bandwidth
+        requirements. A typical large-scale scientific experiment involves at
+        least two parties; a data producer and a data consumer. High-energy
+        physics experiments such as LHC, D0 and EDG are good examples of this.
+        The data for these projects is predominantly produced at just few
+        locations, the data producer, and then several researchers at diverse
+        geographical locations analyze this data, the data consumers. The
+        large distances that often geographically separate the researchers
+        makes it difficult to have the basic access to the data in a
+        reasonable timeframe. For example, EDG roughly estimates its network
+        requirement at an average sustained flow of 400 Mbps for a period of
+        four months out of a year. Not only does this data need to be collected,
+        but additionally a large part of it needs to be transferred between
+        various locations, and this has to be done over the network. Network.
+        architectures are evolving to meet this new and unprecedented demand.</p>
+        
+        <p>We present here research into several new architectures and explore
+        the scalability of protocols such as TCP to try to determine how
+        applications can possibly attain the required high bandwidths needed.
+        In the fall of 2001 SURFnet provided a 2.5 Gbit/s Lambda and a 10 Gbit/s
+        Ethernet link between Amsterdam and Chicago for research along with
+        several other research only links (DataTAG). Initial tests showed
+        that increasing the speed of links and routers in the path alone was
+        not sufficient to obtain an end-to-end high-speed data transfer. In
+        fact the opposite was true, with this high bandwidth delay link, we
+        were getting less the 10 Mbit/sec. We have since conducted extensive
+        experiments on this Trans-Atlantic link both to understand how
+        transport protocols behave and what additional requirements high
+        speed flows, such as TCP, impose on these kinds of networks. One
+        architectural shift in such high-speed networking is to minimize the
+        number of routers (devices which process packets at layer 3 and
+        above), and instead delegate packet forwarding to switching devices
+        at layer 2 or below. Initial throughput measurements of a single TCP
+        stream over such an extreme network infrastructure (i.e. the SURFnet
+        Lambda) has shown surprisingly poor results. This has led us to
+        study the dynamics of TCP at the microscopic level to better
+        understand its behavior. The primary motivation of this work is the
+        demand from HEP community to get maximum throughput over long
+        distance links. Currently HEP cannot effectively use the available
+        bandwidth and simply increasing network capacity does not improve
+        end-to-end performance. The exclusive availability research only
+        high-bandwidth delay networks and lambda’s has allowed us to
+        approach problem this problem in a purely research oriented fashion.</p>
+
+        <p>&nbsp;</p>
+        <!-- #EndEditable --></td>
+    </tr>
+  </table>
+  <table width="740" border="0">
+    <tr bgcolor="#99CC99"> 
+      <td colspan="2" align="left" valign="top" height="12"> 
+        <div align="center">
+          <table width="98%" border="0">
+            <tr>
+              <td width="30%">
+                <div align="center"><b><font color="#FFFFFF">PFLDnet 2003 is organized
+                 at <a href="http://www.cern.ch/">CERN</a> and sponsored by:</div>
+              </td>
+              <td width="70%">
+                <a href="http://www.caltech.edu/"><img src="../images/caltech.gif" hspace="25" align="middle" width="64" height="64"></a>
+                <a href="http://www.cisco.com/"><img src="../images/cisco.jpg" hspace="25" align="middle" width="120" height="61"></a>
+                <a href="http://www.datatag.org/"><img src="../images/datataglogo.jpg" hspace="25" align="middle" width="140" height="64"></a>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+</body>
+<!-- #EndTemplate --></html>
