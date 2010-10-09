@@ -83,10 +83,10 @@ November 29, 2010.</p>
 
 Abstract submission: 
 <span  style="text-decoration: line-through">
-September 20, 2010 </span>	October 4, 2010(extended)<br>
+September 20, 2010</span>	&nbsp; October 11, 2010 (extended)<br>
 Position paper submission: 
 <span  style="text-decoration: line-through">
-September 27, 2010 </span> October 8, 2010(extended)<br>
+September 27, 2010</span> &nbsp; October 11, 2010 (extended)<br>
 Notification of acceptance: October 27, 2010<br>
 Final camera ready submission: November 14, 2010<br>
 Workshop: November 28-29, 2010<br>

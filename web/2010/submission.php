@@ -36,11 +36,9 @@ the authors' names and affiliations are to be included on the submission.
 <H2>Paper Submission:</H2>
 
 Papers must be submitted via EDAS following these instructions:<br>
-1. Create an account on EDAS (if you don't have one) and log in to <a href='http://edas.info'>edas.info</a><br>
-2. Click on the "Submit paper" tab and find "PFLDNeT 2010" in the list<br>
-3. Click the "Submit paper" icon on the rightmost column of that row<br>
-4. Register the paper (requires paper title and abstract)<br>
-5. Once the paper is registered, you can add authors and
+1. Go to the <a href="http://edas.info/newPaper.php?c=9523">paper submission page on EDAS</a>.  You'll have to create an account if you don't already have one.<br>
+2. Register the paper (requires paper title and abstract)<br>
+3. Once the paper is registered, you can add authors and
 upload manuscript in PDF format.
 <br><br>
 <p>The authors of accepted papers must guarantee that their paper will be presented at the conference. At least one author of each accepted paper must be registered for the conference in order for that paper to appear in the proceedings and to be scheduled for presentation. 
