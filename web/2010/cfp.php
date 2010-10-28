@@ -88,7 +88,9 @@ Position paper submission:
 <span  style="text-decoration: line-through">
 September 27, 2010</span> &nbsp; October 11, 2010 (extended)<br>
 Notification of acceptance: October 27, 2010<br>
-Final camera ready submission: November 14, 2010<br>
+Final camera ready submission:
+<span  style="text-decoration: line-through">November 14, 2010</span> &nbsp;
+November 22, 2010<br>
 Workshop: November 28-29, 2010<br>
 IRTF ICCRG meeting (co-located): November 29, 2010
 

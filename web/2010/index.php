@@ -51,9 +51,9 @@ experiences in the area of transport layer problems.</p>
 <IMG src="images/cap_other.gif" alt="other contents" height="18" width="197" border="0" vspace="5"><BR>
 <A href="http://www.fandm.edu" target="_blank"><IMG src="images/bt_venue.gif" alt="VENUE" height="33" width="178" border="0" vspace="3"></A><BR>
 <!-- <A href="aboutlancaster.php"><IMG src="images/bt_LA.gif" alt="about Lancaster" height="33" width="178" border="0" vspace="3"></A><BR> 
-<A href="regist.php"><IMG src="images/bt_regist.gif" alt="registration" height="33" width="178" border="0" vspace="3"></A><BR>
+<A href="regist.php"><IMG src="images/bt_regist.gif" alt="registration" height="33" width="178" border="0" vspace="3"></A><BR>-->
 <A href="accommodation.php"><IMG src="images/bt_accom.gif" alt="accommodation" height="33" width="178" border="0" vspace="3"></A><BR>
-<A href="access.php"><IMG src="images/bt_access.gif" alt="access" height="33" width="178" border="0" vspace="3"></A><BR>
+<!--<A href="access.php"><IMG src="images/bt_access.gif" alt="access" height="33" width="178" border="0" vspace="3"></A><BR>
 <A href="visas.php"><IMG src="images/bt_visas.gif" alt="visas" height="33" width="178" border="0" vspace="3"></A><BR> -->
 <!--
 <IMG src="images/cap_contact.gif" alt="contact local organizers" height="19" width="197" border="0" vspace="3"><BR><img src="images/mail.gif" width="135" height="15" alt="pfldnet2006-la [at] hpcc.jp"><BR>
@@ -84,7 +84,8 @@ experiences in the area of transport layer problems.</p>
   </tr>
   <tr>
     <td>Camera-ready submission:</td>
-    <td><span  style="text-decoration: none">November 14, 2010</span></td>
+    <td><span  style="text-decoration: line-through">November 14, 2010</span>
+	<strong>November 22, 2010</strong></td>
   </tr>
   <tr>
     <td>Registration:</td>
