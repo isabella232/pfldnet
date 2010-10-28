@@ -20,7 +20,7 @@
 <p>
 A block has been reserved for PFLDNeT attendees at 
 	 The Lancaster Mariott in downtown Lancaster.
-<b>Please use <a href="">this reservation link</a> 
+<b>Please use <a href="http://www.marriott.com/hotels/travel/lnsmc?groupCode=frmfrma&app=resvlink&fromDate=11/27/10&toDate=11/29/10">this reservation link</a> 
 to make reservations in the PFLDNeT block</b>.
 
 <p>The Marriott is providing a group price of $139 per night, which includes wireless access.</p>
