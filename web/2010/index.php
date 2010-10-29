@@ -53,8 +53,8 @@ experiences in the area of transport layer problems.</p>
 <!-- <A href="aboutlancaster.php"><IMG src="images/bt_LA.gif" alt="about Lancaster" height="33" width="178" border="0" vspace="3"></A><BR> 
 <A href="regist.php"><IMG src="images/bt_regist.gif" alt="registration" height="33" width="178" border="0" vspace="3"></A><BR>-->
 <A href="accommodation.php"><IMG src="images/bt_accom.gif" alt="accommodation" height="33" width="178" border="0" vspace="3"></A><BR>
-<!--<A href="access.php"><IMG src="images/bt_access.gif" alt="access" height="33" width="178" border="0" vspace="3"></A><BR>
-<A href="visas.php"><IMG src="images/bt_visas.gif" alt="visas" height="33" width="178" border="0" vspace="3"></A><BR> -->
+<A href="access.php"><IMG src="images/bt_access.gif" alt="access" height="33" width="178" border="0" vspace="3"></A><BR>
+<!--<A href="visas.php"><IMG src="images/bt_visas.gif" alt="visas" height="33" width="178" border="0" vspace="3"></A><BR>-->
 <!--
 <IMG src="images/cap_contact.gif" alt="contact local organizers" height="19" width="197" border="0" vspace="3"><BR><img src="images/mail.gif" width="135" height="15" alt="pfldnet2006-la [at] hpcc.jp"><BR>
 -->

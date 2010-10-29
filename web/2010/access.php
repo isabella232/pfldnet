@@ -4,59 +4,67 @@
 
 <HEAD>
 <META http-equiv="content-type" content="text/html;charset=ISO-8859-1">
-<TITLE>PFLDnet 2007 Getting there</TITLE>
+<TITLE>PFLDNeT 2010 - Getting There</TITLE>
 <LINK href="def.css" rel="stylesheet" media="all">
-<style type="text/css">
-<!--
-.style1 {
-	color: #000000;
-	font-style: italic;
-	font-weight: bold;
-}
--->
-</style>
 </HEAD>
 
-<?php $ROOT = "\\\\wil-fs\\wwwroot\\pfldnet2007"; ?>
-<?php include ($ROOT."\\templates\\header.php"); ?>
+<?php $ROOT = "."; ?>
+<?php include ("templates/header.php"); ?>
 
 <TABLE width="780" border="0" cellspacing="0" cellpadding="0">
 <TR>
 <TD bgcolor="#000000" width="1"><IMG src="images/spacer.gif" alt="" height="5" width="1" border="0"></TD>
-<TD width="778">
-<p style="text-align:right;float:right;margin-top:30px;margin-right:20px;font-size: 10pt; ">
-<a href="http://www.isi.edu/contact/directions/isi-lax.php" target="_blank">Map</a></p>
-<H1><IMG src="images/cap_acc.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Getting to PFLDnet</H1>
+<TD width="778"><H1><IMG src="images/cap_sub.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Getting There</H1>
 <div class="top">
-<H2>Workshop venue</H2>
-<p>PFLDnet2007 will be on the <strong>11th floor</strong> of the ISI building, <strong>4676 Admiralty Way, Marina Del Rey</strong>, CA.</p>
-<H2>Access to Marina Del Rey from Los Angeles International Airport (LAX) </H2>
-<dl>
-<dt>Super Shuttle </dt>
-<dd><a href="http://www.lawa.org/lax/welcomeLAX.cfm" target="_blank">LAX</a> is the closest international <a href="http://www.lawa.org/Lawa.cfm" target="_blank">airport</a> to Marina Del Rey, on approximately 4 miles away. Airport shuttles, <span class="style1">Supershuttle</span> can be <a href="http://www.supershuttle.com/htm/cities/lax.htm" target="_blank">booked</a> on-line and is the simplest way of getting to the Marina Del Rey venue area and hotels. It is highly recommended for first time visitors to LA.</dd>
-<dd> <a href="http://www.supershuttle.com/htm/cities/lax.htm#Arrival" target="_blank">Pick-up points</a> at LAX, John Wayne and Long Beach <a href="http://www.lawa.org/welcomeLAWA.html" target="_blank">airports</a>.<BR> 
-	Travel Time: 30-40 min.<BR>
-    Approx Fares (one-way): <BR>
-	Shared ride van $16 for first guest plus $9 per additional guest;</dd>
+<p>
+	 <H2> General Instructions: </H2><br>
+	 General instructions on getting to the venue are listed 
+	 <a href="http://www.fandm.edu/get-here">here</a>.  
+	 The closest airport is Harrisburg International Airport (HIA),
+	 at a ~1 hour drive from the venue.
+	 Harrisburg is a small airport, however,
+	 and you are likely to have more options flying into 
+	 Philadelphia International Airport (PHL).
+	 (particularly for those planning to attend CoNEXT in Philadelphia.)
+	 Note that PHL is not mentioned in the page linked to above;
+	 more detailed information on getting to the venue from 
+     HIA and PHL follows.
+</p>
+<p>
+	 <H2>From the Philadelphia Airport:</H2><br>
+	 In addition, 
+	 <a href="http://www.phl.org">Philadelphia International Airport</a>
+	 is a 1.5-hour drive from the venue,
+	 and may be preferred for those planning to continue on
+	 to <a href="http://conferences.sigcomm.org/co-next/2010/">CoNEXT</a>.<br>
+	 Public transport is also quite convenient and can be used to
+	 get from the Philadelphia Airport to Lancaster as follows:<br>
+	 <b>1.<b> Use the 
+	 <a href="http://septa.org/schedules/rail/index.html">SEPTA Airport Line</a>
+	 to get from the airport to Philadelphia 30th Street Station.
+	 Tickets can be purchased 
+	 at the train station. (Travel time: ~30 minutes)<br>
+	 <b>2.</b> Use <a href="http://www.amtrak.com">Amtrak</a>
+	 to get from 30th Street Station (station code: PHL) 
+		 to Lancaster (station code: LNC). Tickets can be purchased at 
+		 kiosks or windows 
+		 at 30th Street Station, or online. (Travel time: ~1:10 hours)<br>
+	 <b>3.</b>The Mariott is a 22-minute walk 
+		 (<a href="http://tinyurl.com/2dvrzcu">walking directions</a>)
+		 or a 5-minute taxi/cab ride
+		 from the Lancaster Amtrak train station.<br>
+</p>
+<p>
+		 <H2>Taxicab Information:</H2><br>
+		 Two taxicab companies service the Lancaster area:<br>
+		 Friendly Transportation: 1-800-795-FAST<br>
+		 Yellow Cab: 717-397-8100
+</p>
 
-<dt>Access to Marina Del Rey by public transport.</dt>
-
-<dd>There are three <a href="http://www.visitthemarina.com/index.php/transportation/getting_around.html" target="_blank">bus companies</a> covering Marina Del Rey and connecting the area to other parts of LA. <br>
-This includes the <A href="http://www.bigbluebus.com" target=_blank>Santa Monica Blue Bus</A> (<a href="http://www.bigbluebus.com/busroutes/map/index.asp?routeid=3">SM3</a>) which passes nearby the conference venue, connecting to LAX city bus center and Aviation station on the Green Metro rail line (MTA). The nearest  <a href="http://www.bigbluebus.com/busroutes/map/index.asp?routeid=3">SM3</a> bus stop is along Lincoln Blvd, at the <a href="http://www.isi.edu/contact/directions/isi-lax.php" target="_blank">intersection</a> of Mindanao Way.</dd>
-
-<dt>Access to Marina Del Rey by Taxi or Car hire </dt>
-<dd>Due to the large extent of Los Angeles, travelling accross the city by <a href="http://www.visitthemarina.com/index.php/transportation/getting_around.html">authorised taxi</a> can be expensive. Taxi fare from LAX to Marina Del Rey starts from $20. Both taxi and car rentals can be booked from desks at LAX. Additional taxi and car rental information should be available from your hotel and at LAX. Taxis can be booked by phone or by hotel or restaurant.</dd>
-</dl>
-<p> ISI is providing parking on-site for PFLDnet2007 delegates.  Parking is on Admiralty Way.
-Please bring your parking ticket to be validated by ISI.
-Delegates are expected to arrange their own transport to ISI.</p>
-<dl>
-  <dt>Maps</dt>
-  <dd><ul><li><a href="http://www.isi.edu/contact/directions/isi-lax.php" target="_blank">Driving instruction from LAX</a></li>
-      <li>Los Angeles <a href="http://www.seemyla.com/mapsandguides_maps.aspx" target="_blank">Maps and Guides</a> </li>
-    </ul>
-  </dd>
-</dl>
 </div>
+</TD>
+</TR>
+</TABLE>
 
-<?php include ($ROOT."\\templates\\footer.php"); ?>
+
+<?php include ("templates/footer.php"); ?>
