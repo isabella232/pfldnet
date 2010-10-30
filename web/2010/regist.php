@@ -30,8 +30,9 @@
 <p>
 	 <H2>Registration Steps</H2>
 	 <b>Step 1:</b> Pay your registration fee <a href="">here</a>.<br>
-	 <b>Step 2:</b> Fill out your personal information 
-	 and preferences <a href="">here</a>.
+	 <b>Step 2:</b> Fill out your general information 
+	 and preferences 
+	 <a href="https://spreadsheets.google.com/viewform?formkey=dDFxejI2MVVDWURDNUxuZFA3Y3ZNRVE6MQ">here</a>.
 </p>
 </div>
 </TD>
