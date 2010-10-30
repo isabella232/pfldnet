@@ -31,6 +31,20 @@
      HIA and PHL follows.
 </p>
 <p>
+     <H2>From the Harrisburg Airport:</H2>
+	 <a href="">Harrisburg International Airport</a> is the nearest airport
+	 to the venue, 
+	 and is a 1-hour drive from the venue. 
+	 Shuttles can be 
+	 arranged to get to the venue 
+     (see <a href="http://www.flyhia.com/home/parking/limos">here</a>
+	  for a list), and 
+	 <a href="http://www.flyhia.com/home/parking/car_rental">rentals</a> 
+	 are available at the airport as well;
+	 more information will be posted here shortly.<br>
+    (We are also working on making alternative cheaper options available.)
+</p>
+<p>
 	 <H2>From the Philadelphia Airport:</H2>
 	 <a href="http://www.phl.org">Philadelphia International Airport</a>
 	 is a 1.5-hour drive from the venue,
