@@ -15,24 +15,35 @@
 </style>
 </HEAD>
 
-<?php $ROOT = "\\\\wil-fs\\wwwroot\\pfldnet2007"; ?>
-<?php include ($ROOT."\\templates\\header.php"); ?>
+<?php $ROOT = "."; ?>
+<?php include ("templates/header.php"); ?>
 
 <TABLE width="780" border="0" cellspacing="0" cellpadding="0">
 <TR>
 <TD bgcolor="#000000" width="1"><IMG src="images/spacer.gif" alt="" height="5" width="1" border="0"></TD>
 <TD width="778"><H1><IMG src="images/cap_tec.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">TECHNICAL PROGRAM</H1>
   <div class="top">
-  <p><a href="http://www.ifp.uiuc.edu/%7Esrikant/">Prof. R. Srikant </a>of UIUC
-  and Larry Dunn of <a href="http://www.cisco.com/web/about/index.html">Cisco</a> will be plenary speakers at PFLDnet2007.</p>
-  <p>For the first time, PFLDnet will host a <strong>tutorial</strong>. This tutorial will be given by
-    <a href="http://ee2.caltech.edu/People/Faculty/low.html" target="_blank">Prof. Steven Low</a>, Professor at Caltech and CEO of
-    <a href="http://www.fastsoft.com">FastSoft</a>, with a tentative title of &quot;Flow control theory for practitioners&quot;, on the morning of
-    Friday February&nbsp;9th, 2007 . </p>
-  <p>Regular talks will be 20 minutes, with 5 minutes for questions and change-over.</p>
-  <!--p>This programme is still preliminary, and subject to change. Please do not make travel or other plans based on when a particular talk will be.</p-->
-  <p>On Friday afternoon, February 9, 2007, PFLDnet2007 delegates are welcome to a complimentary site visit at <a href="http://wil.cs.caltech.edu/" target="blank">WAN-in-Lab</a> in <a href="http://netlab.caltech.edu/" target="_blank">Netlab</a>, <a href="http://www.caltech.edu/" target="_blank">Caltech</a>. A shuttle bus is has been arranged for those need transport to WAN-in-Lab site visit from ISI. <br>
-   (<a href="http://netlab.caltech.edu/maps.php" target="_blank">Driving directions</a> to WAN-in-Lab..) </p>
+
+Full technical program in progress.
+
+<p>
+Accepted papers (in alphabetical order):
+
+<p>
+<ul>
+<li>	<b>A fluid-based simulation study: the effect of loss synchronization on sizing buffers over 10Gbps high speed networks</b>. Suman Kumar; Mohammed Azad; Seung-Jong Park.
+<li>	<b>A Model for Detecting Transport Layer Data Reneging</b>.  Paul David Amer; Nasif Ekiz.
+<li>	<b>Chirping for Congestion Control - Implementation Feasibility</b>.  Mirja Kuehlewind; Bob Briscoe.
+<li>	<b>Enabling Renewed Innovation in TCP by Establishing an Isolation Boundary</b>.  Umar Kalim; Eric Brown; Mark K. Gardner; Wu-chun Feng.
+<li>	<b>Measurement and Performance Study of PERT for On-demand Video Streaming</b>.  Bin Qian; Narasimha Reddy.
+<li>	<b>Minion-an All-Terrain Packet Packhorse to Jump-Start Stalled Internet Transports</b>.  Janardhan Iyengar; Bryan Ford; Syed Obaid Amin.
+<li>	<b>Revisiting A Soft-State Approach to Managing Reliable Transport Connections</b>.  Gonca Gursun; Ibrahim Matta; Karim A Mattar.
+<li>	<b>Road space rationing in the Internet:Pay more to get better throughput in best effort networks</b>.  Katsushi Kobayashi.
+<li>	<b>Session Layer Burst Switching for High Performance Data Movement</b>.  Ezra Kissel; Martin Swany.
+<li>	<b>Towards an incremental deployment of ERN protocols: a proposal for an E2E-ERN hybrid protocol</b>.  Dino Martin Lopez Pacheco; Tuan Tran Thai; Emmanuel Lochin; Fabrice Arnal.
+<li>	<b>Transmission Scheduling Optimizations for Concurrent Multipath Transfer</b>.  Thomas Dreibholz; Robin Seggelmann; Michael Tüxen; Erwin P. Rathgeb.
+</ul>
+
   </div>
 
 <?php
@@ -562,7 +573,7 @@ EOF;
 }
 
 #####################################################################
-    if (1) {
+    if (0) {
 #		echo <<<EOF
 #<DIV class="cntind">
 #	<TABLE border="0" cellspacing="0" cellpadding="0" class="prog">
@@ -604,7 +615,7 @@ EOF;
 		session ("14:00-16:00", "Site Visit", "", array("Site visit"), $papers);
 		endday  ();
 		
-	} else {
+	} else if (0) {
 		print "<table border=1>\n";
 		print "<tr><th>Title</th><th>Authors</th></tr>\n";
 		foreach ($papers as $p) {
@@ -616,4 +627,4 @@ EOF;
 ?>
  
 </p>
-<?php include ($ROOT."\\templates\\footer.php"); ?>
+<?php include ("templates/footer.php"); ?>

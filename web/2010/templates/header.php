@@ -31,7 +31,7 @@ EOT;
 <TD width="80"><A href="./"><IMG src="images/m_toppage2.gif" alt="home" height="40" width="80" border="0"></A></TD>
 <TD width="67"><A href="cfp.php"><IMG src="images/m_cfp.gif" alt="CFP" height="40" width="67" border="0"></A></TD>
 <TD width="209"><A href="submission.php"><IMG src="images/m_submi.gif" alt="SUBMISSION INSTRUCTIONS" height="40" width="209" border="0"></A></TD>
-<TD width="171"><A href="#"><IMG src="images/m_techni.gif" alt="TECHNICAL PROGRAM" height="40" width="171" border="0"></A></TD>
+<TD width="171"><A href="technical.php"><IMG src="images/m_techni.gif" alt="TECHNICAL PROGRAM" height="40" width="171" border="0"></A></TD>
 <TD width="113"><A href="committees.php"><IMG src="images/m_commit.gif" alt="COMMITTEES" height="40" width="113" border="0"></A></TD>
 <TD width="107"><A href="authors.php"><IMG src="images/m_auth.gif" alt="AUTHOR KIT" height="40" width="107" border="0"></A></TD>
 <TD align="right" width="242" background="images/m_bg.gif"><IMG src="images/m_right.gif" alt="" height="40" width="26" border="0"></TD>
