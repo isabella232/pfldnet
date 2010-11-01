@@ -18,21 +18,46 @@
 <div class="top">
 <H2>Registration Options</H2>
 <p>
-	 <b> Early Registration (Ends November 15, midnight EST):</b><br>
+	 <b> Regular Registration (Ends November 15, midnight EST):</b><br>
 	 General:  USD 200<br>
 	 Student:  USD 150
 </p>
 <p>
-	 <b> On-Site Registration:</b><br>
+	 <b> On-Site Registration (After regular registration period):</b><br>
 	 General:  USD 250<br>
 	 Student:  USD 200
 </p>
 <p>
-	 <H2>Registration Steps</H2>
-	 <b>Step 1:</b> Pay your registration fee <a href="">here</a>.<br>
-	 <b>Step 2:</b> Fill out your general information 
-	 and preferences 
+	 An email confirming your registration will be sent to your 
+	 registered email address within two business days of payment.
+</p>
+
+<H2>Registration Policy</H2>
+<p>
+	 Workshop registration is limited to 60 attendees
+	 so please register as soon as possible to assist 
+	 with planning adequate facilities and meals!
+</p>
+<p>
+	 Cancellation requests received by the end of the 
+	 regular registration period (November 15) will be honored,
+	 and may be subject to cancellation charges 
+	 (such as wire-transfer charges).
+	 Refunds will not be made after November 15.
+</p>
+<p>
+<H2>Registration Steps</H2>
+	 <b>Step 1:</b> Pay registration fee 
+	 <a href="http://edas.info//r9523">here</a>.<br>
+	 <b>Step 2:</b> Fill out general information
+	 and preferences
 	 <a href="https://spreadsheets.google.com/viewform?formkey=dDFxejI2MVVDWURDNUxuZFA3Y3ZNRVE6MQ">here</a>.
+</p>
+<H2>Registration Inquiries</H2>
+<p>
+	 Jana Iyengar<br>
+	 Email: jiyengar@fandm.edu<br>
+	 Phone: +1 717-358-4774
 </p>
 </div>
 </TD>
