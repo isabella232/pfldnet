@@ -17,13 +17,13 @@
 <TD width="778"><H1><IMG src="images/cap_sub.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Registration</H1>
 <div class="top">
 <H2>Registration Steps</H2>
-<p><H1><center>
+<p><H2><center>
 	 Step 1: Pay registration fee 
 	 <a href="http://edas.info//r9523">here</a>.<br>
 	 Step 2: Fill out general information
 	 and preferences
 	 <a href="https://spreadsheets.google.com/viewform?formkey=dDFxejI2MVVDWURDNUxuZFA3Y3ZNRVE6MQ">here</a>.
-</H1></p>
+</H2></p>
 
 <H2>Registration Options</H2>
 <p>
