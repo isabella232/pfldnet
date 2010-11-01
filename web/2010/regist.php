@@ -24,7 +24,7 @@
 	 and preferences
 	 <a href="https://spreadsheets.google.com/viewform?formkey=dDFxejI2MVVDWURDNUxuZFA3Y3ZNRVE6MQ">here</a>.
 </H2></p>
-<br>
+
 <H2>Registration Options</H2>
 <p>
 	 Regular Registration <b>(Ends November 15, midnight EST):</b><br>
