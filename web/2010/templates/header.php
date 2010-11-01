@@ -2,12 +2,6 @@
 <DIV align="center">
 <TABLE width="0" border="0" cellspacing="0" cellpadding="0">
 <TR>
-<!--
-    <TD><IMG src="images/top_01.jpg" alt="  " height="171" width="458" border="0"></TD>
-    <TD><IMG src="images/top_02c.gif" alt="PFLDnet 2006" height="97" width="322" border="0"><BR>
-    <IMG src="images/top_03c.gif" alt="February 2nd (Thu.) and 3rd (Fri.), 2006 Nara Prefectural New Public Hall Nara, Japan" height="74" width="322" border="0">
-    </TD>
--->
 <?php
     $this_page=$_SERVER['SCRIPT_NAME'];
     if ($this_page=="/pfldnet2007/index.php") {
