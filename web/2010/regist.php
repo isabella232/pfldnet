@@ -24,10 +24,10 @@
 	 and preferences
 	 <a href="https://spreadsheets.google.com/viewform?formkey=dDFxejI2MVVDWURDNUxuZFA3Y3ZNRVE6MQ">here</a>.
 </H2></p>
-
+<br><br>
 <H2>Registration Options</H2>
 <p>
-	 Regular Registration (Ends November 15, midnight EST):<br>
+	 Regular Registration <b>(Ends November 15, midnight EST):</b><br>
 	 General:  USD 200<br>
 	 Student:  USD 150<br><br>
 	 On-Site Registration (After regular registration period):<br>
