@@ -38,7 +38,7 @@
 	 We have made arrangements with the following shuttle company:<br>
 	 Unique Limousine of Harrisburg:<br>
 	 Phone number: +1-800-298-8053<br>
-	 Town Car (upto 3 people): USD 116 (includes gratuity)<br><br>
+	 Town Car (upto 3 people): USD 116 (includes gratuity)<br>
 	 Van (4-10 people): USD 154 (includes gratuity)<br><br>
 	 Cancellation:  Allowed upto ~3 hours before pick-up time.<br><br>
 
