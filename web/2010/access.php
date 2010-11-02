@@ -34,7 +34,7 @@
 <p>
 	 <a href="">Harrisburg International Airport</a> is the nearest airport
 	 to the venue, 
-	 and is a ~45-minute drive from the venue.
+	 and is a ~40-minute drive from the venue.
 	 We have made arrangements with the following shuttle company:<br><br>
 	 Unique Limousine of Harrisburg:<br>
 	 Phone number: +1-800-298-8053<br>
