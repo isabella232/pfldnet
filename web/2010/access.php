@@ -21,7 +21,7 @@
 	 General instructions on getting to the venue are listed 
 	 <a href="http://www.fandm.edu/get-here">here</a>.  
 	 The closest airport is Harrisburg International Airport (HIA),
-	 at a ~1 hour drive from the venue.
+	 at a ~40-minute drive from the venue.
 	 Harrisburg is a small airport, however,
 	 and you are likely to have more options flying into 
 	 Philadelphia International Airport (PHL).
