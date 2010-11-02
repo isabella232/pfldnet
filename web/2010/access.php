@@ -35,11 +35,11 @@
 	 <a href="">Harrisburg International Airport</a> is the nearest airport
 	 to the venue, 
 	 and is a ~45-minute drive from the venue.
-	 We have made arrangements with the following shuttle company:<br>
+	 We have made arrangements with the following shuttle company:<br><br>
 	 Unique Limousine of Harrisburg:<br>
 	 Phone number: +1-800-298-8053<br>
 	 Town Car (upto 3 people): USD 116 (includes gratuity)<br>
-	 Van (4-10 people): USD 154 (includes gratuity)<br><br>
+	 Van (4-10 people): USD 154 (includes gratuity)<br>
 	 Cancellation:  Allowed upto ~3 hours before pick-up time.<br><br>
 
 	 While you should budget for the worst case cost of USD 116 per person,
