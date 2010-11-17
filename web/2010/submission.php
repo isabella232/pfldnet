@@ -4,7 +4,7 @@
 
 <HEAD>
 <META http-equiv="content-type" content="text/html;charset=ISO-8859-1">
-<TITLE>PFLDnet 2007 - Paper submission instructions</TITLE>
+<TITLE>PFLDnet 2010 - Paper submission instructions</TITLE>
 <LINK href="def.css" rel="stylesheet" media="all">
 </HEAD>
 
