@@ -54,7 +54,7 @@ experiences in the area of transport layer problems.</p>
 <A href="accommodation.php"><IMG src="images/bt_accom.gif" alt="accommodation" height="33" width="178" border="0" vspace="3"></A><BR>
 <A href="access.php"><IMG src="images/bt_access.gif" alt="access" height="33" width="178" border="0" vspace="3"></A><BR>
 <A href="visas.php"><IMG src="images/bt_visas.gif" alt="visas" height="33" width="178" border="0" vspace="3"></A><BR>
-<A href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=541+W+Walnut+St,+Lancaster,+Pennsylvania+17603&msa=0&msid=113729377680057796461.0004955b8345444cf9403&ll=40.046704,-76.305156&spn=0.022143,0.051627&z=15"><H3>Lancaster Map</H3></A><BR>
+<A href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=541+W+Walnut+St,+Lancaster,+Pennsylvania+17603&msa=0&msid=113729377680057796461.0004955b8345444cf9403&ll=40.046704,-76.305156&spn=0.022143,0.051627&z=15"><H2>Lancaster Map</H2></A><BR>
 <!--
 <IMG src="images/cap_contact.gif" alt="contact local organizers" height="19" width="197" border="0" vspace="3"><BR><img src="images/mail.gif" width="135" height="15" alt="pfldnet2006-la [at] hpcc.jp"><BR>
 -->
