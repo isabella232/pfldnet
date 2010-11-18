@@ -109,6 +109,26 @@ $papers=array(
 		  "paper"=>"",
 		  "presentation"=>"",
 		  "abstract"=>""),
+	"Welzl"=>array("authors"=>"Michael Welzl",
+		  "title"=>"Status update (10 minutes)",
+		  "paper"=>"",
+		  "presentation"=>"",
+		  "abstract"=>""),
+	"Gjessing"=>array("authors"=>"Stein Gjessing",
+		  "title"=>"Update on MulTFRC draft (draft-irtf-iccrg-multfrc-01) (20 minutes)",
+		  "paper"=>"",
+		  "presentation"=>"",
+		  "abstract"=>""),
+	"Tüxen"=>array("authors"=>"Michael Tüxen",
+		  "title"=>"SCTP's Congestion Control and TCP-Friendliness (15 minutes)",
+		  "paper"=>"",
+		  "presentation"=>"",
+		  "abstract"=>""),
+	"Leslie"=>array("authors"=>"John Leslie",
+		  "title"=>"ConEx: A Research Tool For IPv6 Congestion Control (45 minutes)",
+		  "paper"=>"",
+		  "presentation"=>"",
+		  "abstract"=>""),
 );
 
 #####################################################################
@@ -228,6 +248,7 @@ EOF;
 		gap     ("10:30-11:00", "Break");
 		session ("11:00-12:30", "Panel: Adapting to Diversity", "TBD", array("Panel2"), $papers);
 		gap     ("12:30-14:00", "Lunch (provided)");
+		session ("14:00-16:00", "ICCRG Session", "Michael Welzl", array("Welzl", "Gjessing", "Tüxen", "Leslie"), $papers);
 		endday  ();
 		
 	} else if (0) {
