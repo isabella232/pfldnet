@@ -22,7 +22,7 @@
 	 and the busiest travel season of the year,
 	 Amtrak requires <b>advance</b> reservations
 	 for any train from November 23 through 29.  Please make your
-	 reservations accordingly.<br></H2>
+	 reservations accordingly.</H2>
 </p>
 <p>
 	 <H2> General Instructions: </H2>
