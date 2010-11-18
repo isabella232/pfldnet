@@ -17,6 +17,14 @@
 <TD width="778"><H1><IMG src="images/cap_sub.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Getting There</H1>
 <div class="top">
 <p>
+	 <H2> Special Amtrak Notice: </H2>
+	 Since it is Thanksgiving season
+	 and the busiest travel season of the year,
+	 Amtrak requires <b>advance</b> reservations
+	 for any train from November 23 through 29.  Please make your
+	 reservations accordingly.
+</p>
+<p>
 	 <H2> General Instructions: </H2>
 	 General instructions on getting to the venue are listed 
 	 <a href="http://www.fandm.edu/get-here">here</a>.  
