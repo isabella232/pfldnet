@@ -236,7 +236,7 @@ EOF;
 	echo '<div class="top"><p style="text-align:right;margin:0px"><a href="#Sunday, November 28, 2010">28 Nov</a>|<a href="#Monday, November 29, 2010">29 Nov</a></p></div>'."\n";
 
 		day     ("Sunday, November 28, 2010");
-		#gap     ("8:00-9:00", "Breakfast (provided)");
+		gap     ("8:00-9:00", "Breakfast (provided)");
 		session ("9:00-10:30", "Transport Architecture", "TBD", array("Kalim", "Iyengar", "Kobayashi"), $papers);
 		gap     ("10:30-11:00", "Break");
 		session ("11:00-12:30", "Congestion Control", "TBD", array("Pacheco", "Qian", "Kuehlewind"), $papers);
@@ -248,7 +248,7 @@ EOF;
 		endday  ();
 		
 		day     ("Monday, November 29, 2010");
-		#gap     ("8:00-9:00", "Breakfast (provided)");
+		gap     ("8:00-9:00", "Breakfast (provided)");
 		session ("9:00-10:30", "Network Performance", "TBD", array("Dreibholz", "Kissel", "Kumar"), $papers);
 		gap     ("10:30-11:00", "Break");
 		session ("11:00-12:30", "Panel: Adapting to Diversity", "TBD", array("Panel2"), $papers);
