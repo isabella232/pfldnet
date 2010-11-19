@@ -88,7 +88,7 @@ $papers=array(
 		  "abstract"=>""),
 
 	"Kissel"=>array("authors"=>"Ezra Kissel; Martin Swany (University of Delaware, US)",
-		  "title"=>"A fluid-based simulation study: the effect of loss synchronization on sizing buffers over 10Gbps high speed networks",
+		  "title"=>"Session Layer Burst Switching for High Performance Data Movement",
 		  "paper"=>"",
 		  "presentation"=>"",
 		  "abstract"=>""),
@@ -237,7 +237,7 @@ EOF;
 
 		day     ("Sunday, November 28, 2010");
 		#gap     ("8:00-9:00", "Breakfast (provided)");
-		session ("9:00-10:30", "Transport Architecture", "TBD", array("Kumar", "Iyengar", "Kobayashi"), $papers);
+		session ("9:00-10:30", "Transport Architecture", "TBD", array("Kalim", "Iyengar", "Kobayashi"), $papers);
 		gap     ("10:30-11:00", "Break");
 		session ("11:00-12:30", "Congestion Control", "TBD", array("Pacheco", "Qian", "Kuehlewind"), $papers);
 		gap     ("12:30-14:00", "Lunch (provided)");
