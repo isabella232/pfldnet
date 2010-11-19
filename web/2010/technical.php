@@ -124,6 +124,11 @@ $papers=array(
 		  "paper"=>"",
 		  "presentation"=>"",
 		  "abstract"=>""),
+	"Aydin"=>array("authors"=>"Ilknur Aydin",
+		  "title"=>"TCP-Friendliness of SCTP and CMT (30 minutes)",
+		  "paper"=>"",
+		  "presentation"=>"",
+		  "abstract"=>""),
 	"Leslie"=>array("authors"=>"John Leslie",
 		  "title"=>"ConEx: A Research Tool For IPv6 Congestion Control (45 minutes)",
 		  "paper"=>"",
@@ -248,7 +253,7 @@ EOF;
 		gap     ("10:30-11:00", "Break");
 		session ("11:00-12:30", "Panel: Adapting to Diversity", "TBD", array("Panel2"), $papers);
 		gap     ("12:30-14:00", "Lunch (provided)");
-		session ("14:00-16:00", "ICCRG Session", "Michael Welzl", array("Welzl", "Gjessing", "Tüxen", "Leslie"), $papers);
+		session ("14:00-16:00", "ICCRG Session", "Michael Welzl", array("Welzl", "Gjessing", "Tüxen", "Aydin", "Leslie"), $papers);
 		endday  ();
 		
 	} else if (0) {
