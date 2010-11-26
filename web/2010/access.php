@@ -32,7 +32,7 @@
 	 <b> Please park ONLY in the Williamson Lot. 
 	 You can enter the Williamson Lot from only the Harrisburg Ave. entrance 
 	 to the campus. If in doubt, please call 
-	 717-291-3939 (F&M Campus Security) for help.
+	 717-291-3939 (F&M Campus Security) for help.</b>
 </p>
 <p>
 	 <H2> Shuttle to/from Mariott:</H2>
