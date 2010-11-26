@@ -29,7 +29,8 @@
 <p>
 	 There will be signs leading you from the Williamson Lot to 
 	 Brooks House Commons, which is our venue.
-	 You can also use the <a href="http://map.fandm.edu">F&M campus map</a> 
+	 You can also use the <a href="http://www.fandm.edu/visit">
+	 F&M campus map</a> 
 	 for getting to the venue: look for "Brooks College House Commons"
 	 from the "Williamson Parking Lot" and/or 
 	 the pedestrian entrance (entrance on College Ave.
