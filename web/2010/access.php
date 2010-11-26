@@ -18,7 +18,28 @@
 <TD width="778"><H1><IMG src="images/cap_sub.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Important Notes</H1>
 <div class="top">
 <p>
-	 <H2> Special Amtrak Notice: </H2>
+	 <H2> Shuttle to/from Mariott:</H2>
+	 There will be one shuttle that will run continuously between F&M and the
+	 Mariott during the hours noted below.  Look for the "F&M" sign on the
+	 shuttle window.There will be signs from the F&M entrance to Brooks House, 
+	 where the event is.
+</p>
+<ul>
+	 <li> Sunday, 29 Nov, 7:45AM - 9:00AM: Downtown Mariott to F&M (dropoff at
+	  main entrance on College Ave).  The final pickup from the Mariott be at
+	 ~9:00AM.
+	 <li> Sunday, 29 Nov, 5:15PM - 6:30PM: F&M (pickup at main entrance on
+     College Ave.) to Downtown Mariott for the reception.  
+	 The final pickup from F&M be at ~6:30PM.
+	 <li> Monday, 30 Nov, 7:45AM - 9:00AM: Downtown Mariott to F&M (dropoff at
+     main entrance on College Ave).  The final pickup from the Mariott be at
+	 ~9:00AM.
+	 <li> Monday, 30 Nov, 4:15PM - 5:30PM: F&M (pickup at main entrance on
+     College Ave.) to Downtown Mariott.  The final pickup from F&M be at
+	 ~5:30PM.
+</ul>
+<p>
+	 <H2> Special Amtrak Notice:</H2>
 	 Since it is Thanksgiving season
 	 and the busiest travel season of the year,
 	 Amtrak requires <b>advance</b> reservations
