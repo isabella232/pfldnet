@@ -11,19 +11,30 @@
 <?php $ROOT = "."; ?>
 <?php include ("templates/header.php"); ?>
 
+
+<TABLE width="780" border="0" cellspacing="0" cellpadding="0">
+<TR>
+<TD bgcolor="#000000" width="1"><IMG src="images/spacer.gif" alt="" height="5" width="1" border="0"></TD>
+<TD width="778"><H1><IMG src="images/cap_sub.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Important Notes</H1>
+<div class="top">
+<p>
+	 <H2> Special Amtrak Notice: </H2>
+	 Since it is Thanksgiving season
+	 and the busiest travel season of the year,
+	 Amtrak requires <b>advance</b> reservations
+	 for any train from November 23 through 29.  Please make your
+	 reservations accordingly.
+</p>
+</div>
+</TD>
+</TR>
+</TABLE>
+
 <TABLE width="780" border="0" cellspacing="0" cellpadding="0">
 <TR>
 <TD bgcolor="#000000" width="1"><IMG src="images/spacer.gif" alt="" height="5" width="1" border="0"></TD>
 <TD width="778"><H1><IMG src="images/cap_sub.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Getting There</H1>
 <div class="top">
-<p>
-	 <H2> <center>Special Amtrak Notice:</center><br>
-	 Since it is Thanksgiving season
-	 and the busiest travel season of the year,
-	 Amtrak requires <b>advance</b> reservations
-	 for any train from November 23 through 29.  Please make your
-	 reservations accordingly.</H2>
-</p>
 <p>
 	 <H2> General Instructions: </H2>
 	 General instructions on getting to the venue are listed 
