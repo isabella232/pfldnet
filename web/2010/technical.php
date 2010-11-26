@@ -22,7 +22,8 @@
 <TR>
 <TD bgcolor="#000000" width="1"><IMG src="images/spacer.gif" alt="" height="5" width="1" border="0"></TD>
 <TD width="778"><H1><IMG src="images/cap_tec.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">TECHNICAL PROGRAM (Tentative)</H1>
-
+<p> Download all papers as a single .tgz <a href="paper/pfldnet2010.tgz">here.</a>
+</p>
 <?php
 $papers=array(
 	"Kalim"=>array("authors"=>"Umar Kalim; Eric Brown; Mark K. Gardner; Wu-chun Feng (Virginia Tech, US)",
