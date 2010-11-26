@@ -18,6 +18,23 @@
 <TD width="778"><H1><IMG src="images/cap_sub.gif" alt=" " height="36" width="20" align="absmiddle" border="0" hspace="5" vspace="5">Important Notes</H1>
 <div class="top">
 <p>
+	 <H2>Directions and Parking:</H2>
+	 Please see the following 
+	 <a href="">Google map</a>
+	 for details on getting to F&M, and for relevant local information.
+	 We have 15 reserved spots for PFLDNeT attendees,
+	 which will be marked as "Special Event Parking" in the 
+	 Williamson Lot (marked on the map).
+	 There will be signs leading you from the Williamson Lot to 
+	 Brooks House, which is our venue.
+</p>
+<p>
+	 <b> Please park ONLY in the Williamson Lot. 
+	 You can enter the Williamson Lot from only the Harrisburg Ave. entrance 
+	 to the campus. If in doubt, please call 
+	 717-291-3939 (F&M Campus Security) for help.
+</p>
+<p>
 	 <H2> Shuttle to/from Mariott:</H2>
 	 There will be one shuttle that will run continuously between F&M and the
 	 Mariott during the hours noted below.  Look for the "F&M" sign on the
