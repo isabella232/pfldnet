@@ -28,10 +28,10 @@
 </p>
 <p>
 	 There will be signs leading you from the Williamson Lot to 
-	 Brooks House, which is our venue.
-	 You can also use the <a href="http://map.fandm.edu">campus map</a> 
-	 for getting to the Brooks House Commons 
-	 from the Williamson Parking Lot and/or 
+	 Brooks House Commons, which is our venue.
+	 You can also use the <a href="http://map.fandm.edu">F&M campus map</a> 
+	 for getting to the venue: look for "Brooks College House Commons"
+	 from the "Williamson Parking Lot" and/or 
 	 the pedestrian entrance (entrance on College Ave.
 							  facing "Old Main" on the campus map).
 </p>
@@ -45,8 +45,8 @@
 	 <H2> Shuttle to/from Mariott:</H2>
 	 There will be one shuttle that will run continuously between F&M and the
 	 Mariott during the hours noted below.  Look for the "F&M" sign on the
-	 shuttle window.There will be signs from the F&M entrance to Brooks House, 
-	 where the event is.
+	 shuttle window.There will be signs from the F&M entrance to 
+	 Brooks House Commons, where the event will be held.
 </p>
 <ul>
 	 <li> Sunday, 29 Nov, 7:45AM - 9:00AM: Downtown Mariott to F&M (dropoff at
