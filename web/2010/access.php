@@ -25,8 +25,15 @@
 	 We have 15 reserved spots for PFLDNeT attendees,
 	 which will be marked as "Special Event Parking" in the 
 	 Williamson Lot (marked on the Google map).
+</p>
+<p>
 	 There will be signs leading you from the Williamson Lot to 
 	 Brooks House, which is our venue.
+	 You can also use the <a href="http://map.fandm.edu">campus map</a> 
+	 for getting to the Brooks House Commons 
+	 from the Williamson Parking Lot and/or 
+	 the pedestrian entrance (entrance on College Ave.
+							  facing "Old Main" on the campus map).
 </p>
 <p>
 	 <b> Please park ONLY in the Williamson Lot. 
