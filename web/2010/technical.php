@@ -100,13 +100,19 @@ $papers=array(
 		  "presentation"=>"",
 		  "abstract"=>""),
 
-	"Panel1"=>array("authors"=>"",
-		  "title"=>"The Transport Tussle",
+	"Panel1"=>array("authors"=>"Katsushi Kobayashi (RIKEN, JP);<br>
+				Ibrahim Matta (Boston University, US);<br>
+				Joe Touch (USC/ISI, US);<br>
+				Michael Welzl (University of Oslo, NO)",
+		  "title"=>"&ldquo;The Transport Tussle&rdquo;",
 		  "paper"=>"",
 		  "presentation"=>"",
 		  "abstract"=>""),
-	"Panel2"=>array("authors"=>"",
-		  "title"=>"Adapting to Diversity",
+	"Panel2"=>array("authors"=>"Ilknur Aydin (SUNY Plattsburgh, US);<br>
+				Markku Kojo (University of Helsinki, FI);<br>
+				Martin Swany (University of Delaware, US);<br>
+				Michael Tüxen (Münster University of Applied Sciences, DE)",
+		  "title"=>"&ldquo;Adapting to Diversity&rdquo;",
 		  "paper"=>"",
 		  "presentation"=>"",
 		  "abstract"=>""),
@@ -242,7 +248,7 @@ EOF;
 		gap     ("10:30-11:00", "Break");
 		session ("11:00-12:30", "Congestion Control", "TBD", array("Pacheco", "Qian", "Kuehlewind"), $papers);
 		gap     ("12:30-14:00", "Lunch (provided)");
-	  	session ("14:00-15:30", "Panel: The Transport Tussle", "TBD", array("Panel1"), $papers);
+	  	session ("14:00-15:30", "Panel Discussion", "TBD", array("Panel1"), $papers);
 		gap     ("15:30-16:00", "Break");
 	  	session ("16:00-17:00", "Reliable transports", "TBD", array("Amer", "Gursun"), $papers);
 		gap     ("18:00-20:00", "Reception (at the Downtown Mariott, shuttle provided)");
@@ -252,7 +258,7 @@ EOF;
 		gap     ("8:00-9:00", "Breakfast (provided)");
 		session ("9:00-10:30", "Network Performance", "TBD", array("Dreibholz", "Kissel", "Kumar"), $papers);
 		gap     ("10:30-11:00", "Break");
-		session ("11:00-12:30", "Panel: Adapting to Diversity", "TBD", array("Panel2"), $papers);
+		session ("11:00-12:30", "Panel Discussion", "TBD", array("Panel2"), $papers);
 		gap     ("12:30-14:00", "Lunch (provided)");
 		session ("14:00-16:00", "ICCRG Session", "Michael Welzl", array("Welzl", "Gjessing", "Tüxen", "Aydin", "Leslie"), $papers);
 		endday  ();
