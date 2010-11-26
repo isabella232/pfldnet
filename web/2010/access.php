@@ -20,18 +20,18 @@
 <p>
 	 <H2>Directions and Parking:</H2>
 	 Please see the following 
-	 <a href="">Google map</a>
-	 for details on getting to F&M, and for relevant local information.
+	 <a href="http://maps.google.com/maps/ms?hl=en&ie=UTF8&hq=&hnear=541+W+Walnut+St,+Lancaster,+Pennsylvania+17603&msa=0&msid=113729377680057796461.0004955b8345444cf9403&ll=40.046704,-76.305156&spn=0.022143,0.051627&z=15">Google map</a>
+	 for getting to F&M, and for detailed relevant local information.
 	 We have 15 reserved spots for PFLDNeT attendees,
 	 which will be marked as "Special Event Parking" in the 
-	 Williamson Lot (marked on the map).
+	 Williamson Lot (marked on the Google map).
 	 There will be signs leading you from the Williamson Lot to 
 	 Brooks House, which is our venue.
 </p>
 <p>
 	 <b> Please park ONLY in the Williamson Lot. 
 	 You can enter the Williamson Lot from only the Harrisburg Ave. entrance 
-	 to the campus. If in doubt, please call 
+	 to the campus (marked on the Google map). If in doubt, please call 
 	 717-291-3939 (F&M Campus Security) for help.</b>
 </p>
 <p>
