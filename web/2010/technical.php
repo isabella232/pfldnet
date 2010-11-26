@@ -244,7 +244,7 @@ EOF;
 	  	session ("14:00-15:30", "Panel: The Transport Tussle", "TBD", array("Panel1"), $papers);
 		gap     ("15:30-16:00", "Break");
 	  	session ("16:00-17:00", "Reliable transports", "TBD", array("Amer", "Gursun"), $papers);
-		gap     ("18:00-20:00", "Reception (at the Downtown Mariott)");
+		gap     ("18:00-20:00", "Reception (at the Downtown Mariott, shuttle provided)");
 		endday  ();
 		
 		day     ("Monday, November 29, 2010");
