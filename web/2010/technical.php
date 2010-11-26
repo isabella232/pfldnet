@@ -27,21 +27,21 @@
 $papers=array(
 	"Kalim"=>array("authors"=>"Umar Kalim; Eric Brown; Mark K. Gardner; Wu-chun Feng (Virginia Tech, US)",
 		  "title"=>"Enabling Renewed Innovation in TCP by Establishing an Isolation Boundary",
-		  "paper"=>"",
+		  "paper"=>"papers/session1-1.pdf",
 		  "presentation"=>"",
 		  "abstract"=>""),
 
 	"Iyengar"=>array("authors"=>"Janardhan Iyengar*; Syed Obaid Amin*; Bryan Ford** <br>(*Franklin and Marshall College, US; **Yale University, US)",
 		  "title"=>"Minion&mdash;an All-Terrain Packet Packhorse to Jump-Start Stalled Internet Transports",
 		  "pages"=>"",
-		  "paper"=>"",
+		  "paper"=>"papers/session1-2.pdf",
 		  "presentation"=>"",
 		  "abstract"=>""),
 
 	"Kobayashi"=>array("authors"=>"Katsushi Kobayashi (RIKEN, JP)",
 		  "title"=>"Road space rationing in the Internet: Pay more to get better throughput in best effort networks",
 		  "pages"=>"",
-		  "paper"=>"",
+		  "paper"=>"papers/session1-3.pdf",
 		  "presentation"=>"",
 		  "abstract"=>""),
 
