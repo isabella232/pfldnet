@@ -32,7 +32,7 @@ $papers=array(
 		  "presentation"=>"",
 		  "abstract"=>""),
 
-	"Iyengar"=>array("authors"=>"Janardhan Iyengar*; Syed Obaid Amin*; Bryan Ford** <br>(*Franklin and Marshall College, US; **Yale University, US)",
+	"Iyengar"=>array("authors"=>"Janardhan Iyengar*; Bryan Ford**; Dishant Ailawadi**; Syed Obaid Amin*; Michael Nowlan**; Nabin Tiwari*; Jeff Wise* <br>(*Franklin and Marshall College, US; **Yale University, US)",
 		  "title"=>"Minion&mdash;an All-Terrain Packet Packhorse to Jump-Start Stalled Internet Transports",
 		  "pages"=>"",
 		  "paper"=>"session1-2.pdf",
