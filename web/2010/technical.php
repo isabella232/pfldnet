@@ -101,6 +101,7 @@ $papers=array(
 		  "abstract"=>""),
 
 	"Panel1"=>array("authors"=>"Katsushi Kobayashi (RIKEN, JP);<br>
+				Mirja Kuehlewind (University of Stuttgart, DE);<br>
 				Ibrahim Matta (Boston University, US);<br>
 				Joe Touch (USC/ISI, US);<br>
 				Michael Welzl (University of Oslo, NO)",
@@ -244,21 +245,21 @@ EOF;
 
 		day     ("Sunday, November 28, 2010");
 		gap     ("8:00-9:00", "Breakfast (provided)");
-		session ("9:00-10:30", "Transport Architecture", "TBD", array("Kalim", "Iyengar", "Kobayashi"), $papers);
+		session ("9:00-10:30", "Transport Architecture", "Bryan Ford", array("Kalim", "Iyengar", "Kobayashi"), $papers);
 		gap     ("10:30-11:00", "Break");
-		session ("11:00-12:30", "Congestion Control", "TBD", array("Pacheco", "Qian", "Kuehlewind"), $papers);
+		session ("11:00-12:30", "Congestion Control", "Michael Welzl", array("Pacheco", "Qian", "Kuehlewind"), $papers);
 		gap     ("12:30-14:00", "Lunch (provided)");
-	  	session ("14:00-15:30", "Panel Discussion", "TBD", array("Panel1"), $papers);
+	  	session ("14:00-15:30", "Panel Discussion", "Joe Touch", array("Panel1"), $papers);
 		gap     ("15:30-16:00", "Break");
-	  	session ("16:00-17:00", "Reliable transports", "TBD", array("Amer", "Gursun"), $papers);
+	  	session ("16:00-17:00", "Reliable transports", "Katsushi Kobayashi", array("Amer", "Gursun"), $papers);
 		gap     ("18:00-20:00", "Reception (at the Downtown Mariott, shuttle provided)");
 		endday  ();
 		
 		day     ("Monday, November 29, 2010");
 		gap     ("8:00-9:00", "Breakfast (provided)");
-		session ("9:00-10:30", "Network Performance", "TBD", array("Dreibholz", "Kissel", "Kumar"), $papers);
+		session ("9:00-10:30", "Network Performance", "Paul Amer", array("Dreibholz", "Kissel", "Kumar"), $papers);
 		gap     ("10:30-11:00", "Break");
-		session ("11:00-12:30", "Panel Discussion", "TBD", array("Panel2"), $papers);
+		session ("11:00-12:30", "Panel Discussion", "Michael Tüxen", array("Panel2"), $papers);
 		gap     ("12:30-14:00", "Lunch (provided)");
 		session ("14:00-16:00", "ICCRG Session", "Michael Welzl", array("Welzl", "Gjessing", "Tüxen", "Aydin", "Leslie"), $papers);
 		endday  ();
