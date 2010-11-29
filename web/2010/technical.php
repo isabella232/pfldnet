@@ -29,7 +29,7 @@ $papers=array(
 	"Kalim"=>array("authors"=>"Umar Kalim; Eric Brown; Mark K. Gardner; Wu-chun Feng (Virginia Tech, US)",
 		  "title"=>"Enabling Renewed Innovation in TCP by Establishing an Isolation Boundary",
 		  "paper"=>"session1-1.pdf",
-		  "presentation"=>"",
+		  "presentation"=>"session1-1.pres.pdf",
 		  "abstract"=>""),
 
 	"Iyengar"=>array("authors"=>"Janardhan Iyengar*; Bryan Ford**; Dishant Ailawadi**; Syed Obaid Amin*; Michael Nowlan**; Nabin Tiwari*; Jeff Wise* <br>(*Franklin and Marshall College, US; **Yale University, US)",
@@ -43,7 +43,7 @@ $papers=array(
 		  "title"=>"Road space rationing in the Internet: Pay more to get better throughput in best effort networks",
 		  "pages"=>"",
 		  "paper"=>"session1-3.pdf",
-		  "presentation"=>"",
+		  "presentation"=>"session1-3.pres.pdf",
 		  "abstract"=>""),
 
 	"Pacheco"=>array("authors"=>"Dino Martin Lopez Pacheco*; Tuan Tran Thai**; Emmanuel Lochin**; Fabrice Arnal***<br>(*University of Nice (EPU), FR; **University of Toulouse, FR; ***Thales Alenia Space, FR)",
