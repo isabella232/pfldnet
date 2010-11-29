@@ -36,7 +36,7 @@ $papers=array(
 		  "title"=>"Minion&mdash;an All-Terrain Packet Packhorse to Jump-Start Stalled Internet Transports",
 		  "pages"=>"",
 		  "paper"=>"session1-2.pdf",
-		  "presentation"=>"",
+		  "presentation"=>"session1-2.pres.pdf",
 		  "abstract"=>""),
 
 	"Kobayashi"=>array("authors"=>"Katsushi Kobayashi (RIKEN, JP)",
