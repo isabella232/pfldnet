@@ -85,7 +85,7 @@ $papers=array(
 		  "title"=>"Transmission Scheduling Optimizations for Concurrent Multipath Transfer",
 		  "pages"=>"",
 		  "paper"=>"session4-1.pdf",
-		  "presentation"=>"",
+		  "presentation"=>"session4-1.pres.pdf",
 		  "abstract"=>""),
 
 	"Kissel"=>array("authors"=>"Ezra Kissel; Martin Swany (University of Delaware, US)",
