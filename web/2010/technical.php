@@ -140,7 +140,7 @@ $papers=array(
 	"Leslie"=>array("authors"=>"John Leslie",
 		  "title"=>"ConEx: A Research Tool For IPv6 Congestion Control (45 minutes)",
 		  "paper"=>"",
-		  "presentation"=>"",
+		  "presentation"=>"iccrg-leslie.pdf",
 		  "abstract"=>""),
 );
 
