@@ -125,7 +125,7 @@ $papers=array(
 	"Gjessing"=>array("authors"=>"Stein Gjessing",
 		  "title"=>"Update on MulTFRC draft (draft-irtf-iccrg-multfrc-01) (20 minutes)",
 		  "paper"=>"",
-		  "presentation"=>"",
+		  "presentation"=>"iccrg-gjessing.pdf",
 		  "abstract"=>""),
 	"Tüxen"=>array("authors"=>"Michael Tüxen",
 		  "title"=>"SCTP's Congestion Control and TCP-Friendliness (15 minutes)",
