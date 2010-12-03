@@ -97,7 +97,7 @@ $papers=array(
 	"Kumar"=>array("authors"=>"Suman Kumar*; Mohammed Azad**; Seung-Jong Park** <br> (*North Carolina State University, US; **Louisiana State University)",
 		  "title"=>"A fluid-based simulation study: the effect of loss synchronization on sizing buffers over 10Gbps high speed networks",
 		  "paper"=>"session4-3.pdf",
-		  "presentation"=>"",
+		  "presentation"=>"session4-3.pres.pdf",
 		  "abstract"=>""),
 
 	"Panel1"=>array("authors"=>"Katsushi Kobayashi (RIKEN, JP);<br>
