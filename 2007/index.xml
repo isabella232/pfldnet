@@ -10,128 +10,5 @@
 	<atom:link href="https://pfld.net/2007/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/aboutLA.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/aboutLA.php/</guid>
-      <description>PFLDnet 2007--7-9 February 2007; Marina Del Rey, CA--ABOUT LOS ANGELES AND MARINA DEL REYUseful Links.
-Marina Del Rey: Official Visitors and Convention BureauMore tourist informationin WikipediaAccess to Marina Del Rey Los Angeles:  in Lonely Planet guide (plus Fast facts and electrical plugs) Visitors and Convention BureauPublic transport, Airports and Beaches</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/access.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/access.php/</guid>
-      <description>PFLDnet 2007 Getting there--7-9 February 2007; Marina Del Rey, CA--Map
-Getting to PFLDnetWorkshop venuePFLDnet2007 will be on the 11th floor of the ISI building, 4676 Admiralty Way, Marina Del Rey, CA.
-Access to Marina Del Rey from Los Angeles International Airport (LAX) Super Shuttle LAX is the closest international airport to Marina Del Rey, on approximately 4 miles away.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/accommodation.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/accommodation.php/</guid>
-      <description>PFLDnet 2007 Accommodation--7-9 February 2007; Marina Del Rey, CA--= 0 ) {haystack = haystack.substring(0, pos) + newtext + haystack.substring(pos+needle.length, haystack.length);}return haystack;}// Insert a clickable e mail link into the document, to fool spa mmersfunction java_link(mail, text) {//	var address = replace( replace(mail, &#34;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/authors.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/authors.php/</guid>
-      <description>PFLDnet 2007 Authors&#39; kit--7-9 February 2007; Marina Del Rey, CA--= 0 ) {haystack = haystack.substring(0, pos) + newtext + haystack.substring(pos+needle.length, haystack.length);}return haystack;}// Insert a clickable e mail link into the document, to fool spa mmersfunction java_link(mail, text) {//	var address = replace( replace(mail, &#34;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/cfp.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/cfp.php/</guid>
-      <description>PFLDnet 2007- Call for papers--7-9 February 2007; Marina Del Rey, CA--Call for Papers Abstract Submission now closed. Abstract Submission now closed. Future networks will increasingly contain high bandwidth, high delay paths. Protocols for fast, long distance networks will have to expand from experimental testbeds and into the wider world.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/committees.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/committees.php/</guid>
-      <description>PFLDnet 2007 Committees--7-9 February 2007; Marina Del Rey, CA--COMMITTEESCo-Chairs:Lachlan Andrew (Caltech - USA)Aaron Falk (ISI - USA)Medy Sanadidi (UCLA - USA)Steering Committee:Aaron Falk (ISI - USA)Katsushi Kobayashi (NICT - JP)Pascale Vicat-Blanc Primet (INRIA - FR)Medy Sanadidi (UCLA - USA) Technical Program Committee:Lachlan Andrew (Caltech - USA) (Co-chair)Doug Leith (Hamilton Institute - IE) (Co-chair)Medy Sanadidi (UCLA - USA) (Co-chair)Mark Allman (ICIR - USA)</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/index2007.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/index2007.php/</guid>
-      <description>PFLDnet 2007--7-9 February 2007; Marina Del Rey, CA--Visit
-PFLDnet2008, March 5-7, 2008
-in Manchester, England!The International Workshop on Protocols for Fast Long-DistanceNetworks at CERN (PFLDnet2003),Argonne (PFLDnet2004),Lyon (PFLDnet2005)and Nara (PFLDnet2006)were very successful in bringing together many researchers from all over theworld including North America, Europe and Asia who are working on these problems.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/PFLDnet2007photos.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/PFLDnet2007photos.php/</guid>
-      <description>PFLDnet 2007 Delegates--7-9 February 2007; Marina Del Rey, CA--= 0 ) {haystack = haystack.substring(0, pos) + newtext + haystack.substring(pos+needle.length, haystack.length);}return haystack;}// Insert a clickable e mail link into the document, to fool spa mmersfunction java_link(mail, text) {//	var address = replace( replace(mail, &#34;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/regist.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/regist.php/</guid>
-      <description>PFLDnet 2007--7-9 February 2007; Marina Del Rey, CA--= 0 ) {haystack = haystack.substring(0, pos) + newtext + haystack.substring(pos+needle.length, haystack.length);}return haystack;}// Insert a clickable e mail link into the document, to fool spa mmersfunction java_link(mail, text) {//	var address = replace( replace(mail, &#34;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/submission.foo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/submission.foo/</guid>
-      <description>PFLDnet 2007 - Paper submission instructions= 0 ) {haystack = haystack.substring(0, pos) + newtext + haystack.substring(pos+needle.length, haystack.length);}return haystack;}// Insert a clickable e mail link into the document, to fool spa mmersfunction java_link(mail, text) {//	var address = replace( replace(mail, &#34; dot &#34;, &#34;.&#34;), &#34; at &#34;, &#34;@&#34;);//	var name = replace( replace(text, &#34; dot &#34;, &#34;.&#34;), &#34; at &#34;, &#34;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/technical.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/technical.php/</guid>
-      <description>PFLDnet 2007--7-9 February 2007; Marina Del Rey, CA--TECHNICAL PROGRAMProf. R. Srikant of UIUCand Larry Dunn of Cisco will be plenary speakers at PFLDnet2007.
-For the first time, PFLDnet will host a tutorial. This tutorial will be given byProf. Steven Low, Professor at Caltech and CEO ofFastSoft, with a tentative title of &amp;quot;Flow control theory for practitioners&amp;quot;, on the morning ofFriday February&amp;nbsp;9th, 2007 .</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/template.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/template.php/</guid>
-      <description>PFLDnet 2006The International Workshop on Protocols for Fast Long-DistanceNetworks at CERN (PFLDnet2003), Argonne (PFLDnet2004), and in Lyon(PFLDnet2005)were very successful in bringing together many researchers from all over theworld including North America, Europe and Asia who are working on these problems.This workshop will continue this tradition, and provide a perfect setting forresearchers in this area to exchange ideas and experience.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2007/visas.php/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2007/visas.php/</guid>
-      <description>PFLDnet 2007 Visas--7-9 February 2007; Marina Del Rey, CA--= 0 ) {haystack = haystack.substring(0, pos) + newtext + haystack.substring(pos+needle.length, haystack.length);}return haystack;}// Insert a clickable e mail link into the document, to fool spa mmersfunction java_link(mail, text) {//	var address = replace( replace(mail, &#34;</description>
-    </item>
-    
   </channel>
 </rss>
