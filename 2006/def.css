@@ -1,0 +1,99 @@
+body {
+	background-color: #ffffff;
+	margin: 0px;
+}
+
+a:link { color: #0000ff; text-decoration: underline;}
+a:visited { color: #0000ff; text-decoration: underline;}
+a:active { color: #ff3300; text-decoration: underline;}
+a:hover { color: #ff3300; text-decoration: underline;}
+
+strong {
+	font-style: normal;
+	font-weight: bold;
+}
+
+em {
+	color: #ff0033;
+	font-style: normal;
+	font-weight: bold;
+}
+
+hr {
+	width:98%;
+	color: #ffffff;
+	line-height: 0%;
+	background-color: #ffffff;
+}
+hr.dotline {
+	width:100%;
+	border-width:0px 0px 1px;
+	border-style:dotted;
+	border-color:#000000;
+	padding:0px 37px;
+}
+
+p.top{
+	padding:5px;
+}
+div.top{
+	padding:0px 37px;
+	font-size: 10pt; line-height: 140%;
+}
+
+h1 { font-size: 18pt; line-height: 0%; font-weight: bold; margin-top: 5px }
+h2 { font-size: 11pt ;color:#000066;margin-top:20px}
+h3 { font-size: 10pt; color:#333333 }
+
+dt { margin:0px auto; font-size: 11pt; font-weight: bold; line-height: 140% }
+dd  { margin:5px 0px 10px 12px; }
+ul { margin:0px ; }
+li { margin:2px 0px ;}
+
+.lh130 { line-height: 130% }
+.lh150 { line-height: 150% }
+.lh170 { line-height: 170% }
+.ssmall { font-size: 8pt ; line-height: 140% }
+.small { font-size: 9pt ; line-height: 140% }
+.medium { font-size: 10pt; line-height: 140% }
+.x-medium { font-size: 11pt; font-weight: bold; line-height: 140% }
+.large { font-size: 12pt; line-height: 140% }
+.x-large { font-size: 14pt; line-height: 140% }
+
+.crtex{ font-size: 8pt ; line-height: 140% ; color: #ffffff;}
+table.prog th{
+	font-size: 10pt;
+	line-height: 140%;
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-bottom:solid 1px #cccccc;
+	font-weight:normal;
+	color:#000099;
+}
+table.prog td{
+	font-size: 10pt;
+	line-height: 140%;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-bottom:solid 1px #cccccc;
+	font-weight:normal;
+}
+div.author {
+	margin:0 0 0 40px;
+	font-weight:normal;
+	color:#333333;
+}
+div.time{
+	text-align:right;
+	padding-right:20px;
+	font-weight:normal;
+	color:#333333;
+	float:right;
+}
+div.pdf{
+	line-height:12px;
+	margin-top:0px;
+	margin-left:290px;
+	color:#333333;
+}

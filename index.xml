@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocols for Future, Large-Scale &amp; Diverse Network Transports</title>
+    <link>https://pfld.net/</link>
+    <description>Recent content on Protocols for Future, Large-Scale &amp; Diverse Network Transports</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pfld.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://pfld.net/2004/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfld.net/2004/</guid>
+      <description>2nd PFLDnet Workshop - Homepage    &amp;nbsp;
+Committees
+   Second International Workshop
+on Protocols for Fast Long-Distance Networks 
+ February 16-17, 2004Argonne National Laboratory
+Argonne, IllinoisUSA
+   &amp;nbsp;
+Registration     Technical Program Agenda
+ Important Dates
+   Submission Instructions &amp;nbsp;
+ Practical Information
+&amp;nbsp;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pfld.net/2007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfld.net/2007/</guid>
+      <description>PFLDnet 2007--Fifth International Workshop onProtocols for FAST Long-Distance Networks7-9 February 2007ISI, Marina Del Rey (Los Angeles), California--= 0 ) {haystack = haystack.substring(0, pos) + newtext + haystack.substring(pos+needle.length, haystack.length);}return haystack;}// Insert a clickable e mail link into the document, to fool spa mmersfunction java_link(mail, text) {//	var address = replace( replace(mail, &#34;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://pfld.net/2010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfld.net/2010/</guid>
+      <description>PFLDnet 2010&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
+Lancaster, Pennsylvania--The 8th International Workshop on Protocols for Future, Large-Scale &amp;amp; Diverse Network Transports (PFLDNeT) in beautiful Lancaster, Pennsylvania,will bring together researchers and practitioners from all over the worldworking in the area of transport layer issues for modern communication networks.</description>
+    </item>
+    
+  </channel>
+</rss>
