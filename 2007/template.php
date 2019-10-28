@@ -1,4 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
 <HTML lang="en">
 
@@ -103,3 +104,5 @@ The Workshop was attended by 41 participants from 10 countries.</p>
 </BODY>
 
 </HTML>
+
+

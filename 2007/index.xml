@@ -2,33 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Protocols for Future, Large-Scale &amp; Diverse Network Transports</title>
-    <link>https://pfld.net/</link>
+    <link>https://pfld.net/2007/</link>
     <description>Recent content on Protocols for Future, Large-Scale &amp; Diverse Network Transports</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pfld.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pfld.net/2007/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2004/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2004/</guid>
-      <description>2nd PFLDnet Workshop - Homepage    &amp;nbsp;
-Committees
-   Second International Workshop
-on Protocols for Fast Long-Distance Networks 
- February 16-17, 2004Argonne National Laboratory
-Argonne, IllinoisUSA
-   &amp;nbsp;
-Registration     Technical Program Agenda
- Important Dates
-   Submission Instructions &amp;nbsp;
- Practical Information
-&amp;nbsp;</description>
-    </item>
     
     <item>
       <title></title>
@@ -151,114 +131,6 @@ For the first time, PFLDnet will host a tutorial. This tutorial will be given by
       
       <guid>https://pfld.net/2007/visas.php</guid>
       <description>PFLDnet 2007 Visas--7-9 February 2007; Marina Del Rey, CA--= 0 ) {haystack = haystack.substring(0, pos) + newtext + haystack.substring(pos+needle.length, haystack.length);}return haystack;}// Insert a clickable e mail link into the document, to fool spa mmersfunction java_link(mail, text) {//	var address = replace( replace(mail, &#34;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/access.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/access.php</guid>
-      <description>PFLDNeT 2010 - Getting There&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--Important NotesDirections and Parking:Please see the following Google mapfor getting to F&amp;M, and for detailed relevant local information.We have 15 reserved spots for PFLDNeT attendees,which will be marked as &#34;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/accommodation.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/accommodation.php</guid>
-      <description>PFLDNeT 2010 - Accomodation&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--AccomodationAccomodation:A block has been reserved for PFLDNeT attendees at The Lancaster Mariott in downtown Lancaster (until November 15.)
-Please use this reservation linkto make reservations in the PFLDNeT block.The Marriott is providing a group price of $139 per night, which includes wireless access.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/authors.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/authors.php</guid>
-      <description>PFLDnet 2010 Author kit&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--AUTHORKITPaper PreparationThe camera-ready paper must be in PDF format for &#34;US letter&#34; sized paper, with a maximum length of 6 pages.
-ALL fonts must be embedded in the PDF file.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/cfp.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/cfp.php</guid>
-      <description>PFLDnet 2010- Call for papers&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--Call for Papers PFLDNeT 2010The 8th International Workshop on Protocols for Future,Large-Scale and Diverse Network Transports (PFLDNeT)
-Franklin &amp; Marshall College, Lancaster, Pennsylvania, USA
-November 28-29, 2010
-Web page: http://pfld.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/committees.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/committees.php</guid>
-      <description>PFLDnet 2010 Committees&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--COMMITTEESProgram Committee Chairs:Bryan Ford, Yale University, USAInjong Rhee, North Carolina State University, USASteering Committee:Lachlan Andrew, Swinburne University of Technology, Australia Lars Eggert, Nokia Research Center, Finland Richard Hughes-Jones, Univ.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/regist.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/regist.php</guid>
-      <description>PFLDNeT 2010 - Registration&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--RegistrationRegistration StepsStep 1: Pay registration fee here.
-Step 2: Fill out general informationand preferenceshere.
-Registration OptionsRegular Registration (Ends November 15, midnight EST):
-General: USD 200</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/submission.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/submission.php</guid>
-      <description>PFLDnet 2010 - Paper submission instructions&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--Submission Instructions Paper Format: The papers must be in PDF format, US letter sized, with a maximum length of 6 pages (including all figures and references). Font size should be 10pt or larger and all fonts must be embedded in the PDF file.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/technical.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/technical.php</guid>
-      <description>PFLDnet 2010 Technical Program&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--TECHNICAL PROGRAM (Tentative) Download all papers as a single .tgz here.28 Nov|29 Nov
-  &amp;nbsp; &amp;nbsp;&amp;nbsp;Sunday, November 28, 2010   8:00-9:00&amp;nbsp; Breakfast (provided)   9:00-10:30&amp;nbsp; Transport Architecture &amp;nbsp; &amp;nbsp; Chair: Bryan Ford  &amp;nbsp; Enabling Renewed Innovation in TCP by Establishing an Isolation Boundary</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/template.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/template.php</guid>
-      <description>window.addEventListener(&#39;DOMContentLoaded&#39;,function(){var v=archive_analytics.values;v.service=&#39;wb&#39;;v.server_name=&#39;wwwb-app41.us.archive.org&#39;;v.server_ms=92;archive_analytics.send_pageview({});}); WB_wombat_Init(&#34;https://web.archive.org/web/&#34;, &#34;20191028113708&#34;, &#34;pfld.net&#34;);   __wbhack.init(&#39;https://web.archive.org/web&#39;);  PFLDnet 2006                  The International Workshop on Protocols for Fast Long-Distance Networks at CERN (PFLDnet2003), Argonne (PFLDnet2004), and in Lyon(PFLDnet2005) were very successful in bringing together many researchers from all over the world including North America, Europe and Asia who are working on these problems.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pfld.net/2010/visas.php</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pfld.net/2010/visas.php</guid>
-      <description>PFLDNeT 2010 - Visas&amp;nbsp;&amp;nbsp;November 28-29, 2010 Franklin &amp;amp; Marshall College &amp;nbsp;&amp;nbsp;
-Lancaster, Pennsylvania--US VisasLoading...HOME | CFP SUBMISSION INSTRUCTIONS --| TECHNICAL PROGRAM | COMMITTEES | AUTHOR KIT&amp;nbsp;&amp;nbsp;ABOUT LANCASTER | REGISTRATION | ACCOMMODATION | ACCESS | VISAS&amp;nbsp;&amp;nbsp;PFLDnet 2010&amp;nbsp;&amp;nbsp;</description>
     </item>
     
   </channel>
